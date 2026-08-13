@@ -1,0 +1,9 @@
+{
+  "elements": {},
+  "imports": [
+    "package:drift/drift.dart",
+    "package:flutter/services.dart",
+    "package:bangla_sahitya_app/data/database/app_database.dart",
+    "package:bangla_sahitya_app/data/database/tables/content_tables.dart"
+  ]
+}

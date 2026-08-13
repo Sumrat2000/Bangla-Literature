@@ -1,0 +1,7 @@
+{
+  "elements": {},
+  "imports": [
+    "package:drift/drift.dart",
+    "package:bangla_sahitya_app/data/database/app_database.dart"
+  ]
+}

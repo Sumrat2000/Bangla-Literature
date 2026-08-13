@@ -1,0 +1,10 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:bangla_sahitya_app/data/models/mcq.dart",
+    "package:bangla_sahitya_app/data/providers.dart",
+    "package:bangla_sahitya_app/features/study/presentation/widgets/source_badge.dart"
+  ]
+}

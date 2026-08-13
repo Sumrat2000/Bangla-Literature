@@ -1,0 +1,12 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:bangla_sahitya_app/data/models/content_item.dart",
+    "package:bangla_sahitya_app/data/models/timeline_entry.dart",
+    "package:bangla_sahitya_app/data/providers.dart",
+    "package:bangla_sahitya_app/features/timeline/presentation/widgets/timeline_filter_bar.dart",
+    "package:bangla_sahitya_app/features/timeline/presentation/widgets/timeline_card.dart"
+  ]
+}

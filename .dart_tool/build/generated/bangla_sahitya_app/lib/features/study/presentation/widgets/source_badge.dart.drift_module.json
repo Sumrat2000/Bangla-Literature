@@ -1,0 +1,7 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:bangla_sahitya_app/core/theme/app_colors.dart"
+  ]
+}

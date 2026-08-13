@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.banglasahitya.app-mergeDebugResources-25:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/root/bangla_sahitya_app/android/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "5,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "267,656",
+                        "endLines": "7,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "434,820"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,227",
+                        "endLines": "4,7",
+                        "endColumns": "12,12",
+                        "endOffsets": "222,391"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3014 @@
+{
+  "packId": "content_pack_01",
+  "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+  "importedFrom": "Regular_Class_Bengali_Literature-01.pdf",
+  "contentItems": [
+    {
+      "id": "topic_jug_bivag",
+      "type": "topic",
+      "title": "বাংলা সাহিত্যের যুগবিভাগ",
+      "shortDescription": "বাংলা সাহিত্যের ইতিহাসকে প্রধানত তিনটি যুগে ভাগ করা হয়েছে।",
+      "detailedSections": [
+        {
+          "heading": "তিনটি প্রধান যুগ",
+          "body": "বাংলা সাহিত্যের ইতিহাসকে প্রধানত ৩টি যুগে ভাগ করা হয়েছে — প্রাচীন যুগ (৬৫০-১২০০), মধ্য যুগ (১২০১-১৮০০), এবং আধুনিক যুগ (১৮০১-বর্তমান পর্যন্ত)।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_jug_prachin",
+          "label": "প্রাচীন যুগ",
+          "value": "৬৫০ – ১২০০ (সপ্তম-দ্বাদশ শতক)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_jug_modhyo",
+          "label": "মধ্য যুগ",
+          "value": "১২০১ – ১৮০০ (ত্রয়োদশ-অষ্টাদশ শতক)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_jug_adhunik",
+          "label": "আধুনিক যুগ",
+          "value": "১৮০১ – বর্তমান পর্যন্ত (উনিশ শতক-বর্তমান)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_syllabus_sahitya",
+          "label": "BCS সিলেবাসে সাহিত্য অংশের পূর্ণমান",
+          "value": "২০ (ক. প্রাচীন ও মধ্যযুগ ০৫, খ. আধুনিক যুগ ১৮০০-বর্তমান ১৫)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedTopicIds": [
+        "topic_prachin_yug",
+        "topic_ondhokar_yug",
+        "topic_modhyo_yug"
+      ],
+      "tags": [
+        "যুগবিভাগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "topic_prachin_yug",
+      "type": "topic",
+      "title": "প্রাচীন যুগ (৬৫০-১২০০)",
+      "shortDescription": "বাংলা সাহিত্যের সবচেয়ে পুরনো যুগ, একমাত্র নিদর্শন চর্যাপদ।",
+      "detailedSections": [
+        {
+          "heading": "সময়কাল নিয়ে পণ্ডিতদের ভিন্নমত",
+          "body": "ড. মুহম্মদ শহীদুল্লাহর মতে প্রাচীন যুগ ৬৫০-১২০০ খ্রিস্টাব্দ (সপ্তম থেকে দ্বাদশ শতাব্দী), প্রায় ৫৫০ বছর। ড. সুনীতিকুমার চট্টোপাধ্যায়ের মতে ৯৫০-১২০০ খ্রিস্টাব্দ (দশম থেকে দ্বাদশ শতাব্দী), প্রায় ২৫০ বছর। সুকুমার সেনের মতে দশম থেকে মধ্য চতুর্দশ শতাব্দী।"
+        },
+        {
+          "heading": "বৈশিষ্ট্য ও নিদর্শন",
+          "body": "প্রাচীন যুগের সাহিত্যের একমাত্র বৈশিষ্ট্য ছিল ধর্ম, এবং একমাত্র সাহিত্যের নিদর্শন চর্যাপদ।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_prachin_shahidullah",
+          "label": "প্রাচীন যুগ (শহীদুল্লাহর মতে)",
+          "value": "৬৫০-১২০০ খ্রি. (প্রায় ৫৫০ বছর)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_prachin_sunitikumar",
+          "label": "প্রাচীন যুগ (সুনীতিকুমারের মতে)",
+          "value": "৯৫০-১২০০ খ্রি. (প্রায় ২৫০ বছর)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_prachin_sukumar_sen",
+          "label": "প্রাচীন যুগ (সুকুমার সেনের মতে)",
+          "value": "দশম থেকে মধ্য চতুর্দশ শতাব্দী",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_prachin_boisisto",
+          "label": "প্রাচীন যুগের সাহিত্যের একমাত্র বৈশিষ্ট্য",
+          "value": "ধর্ম",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_prachin_nidorshon",
+          "label": "প্রাচীন যুগের একমাত্র সাহিত্যের নিদর্শন",
+          "value": "চর্যাপদ",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedBookIds": [
+        "book_choryapod"
+      ],
+      "relatedTopicIds": [
+        "topic_jug_bivag",
+        "topic_ondhokar_yug"
+      ],
+      "tags": [
+        "প্রাচীন যুগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "book_choryapod",
+      "type": "book",
+      "title": "চর্যাপদ",
+      "shortDescription": "বাংলা সাহিত্যের একমাত্র আদি নিদর্শন — গানের সংকলন, বৌদ্ধ সহজিয়া ধর্মের সাধনতত্ত্ব।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয়",
+          "body": "চর্যাপদ বাংলা সাহিত্যের একমাত্র আদি নিদর্শন। এটি মূলত গানের সংকলন এবং বৌদ্ধ সহজিয়া ধর্মের সাধনতত্ত্ব বহন করে। পাল ও সেন আমলে রচিত বলে মনে করা হয়। 'চর্যাপদ' শব্দের অর্থ আচরণ/সাধনা।"
+        },
+        {
+          "heading": "আবিষ্কার",
+          "body": "১৮৮২ সালে রাজা রাজেন্দ্রলাল মিত্র তাঁর 'Sanskrit Buddhist Literature in Nepal' গ্রন্থে নেপালে বৌদ্ধতান্ত্রিক সাহিত্যের কথা প্রকাশ করেন। মহামহোপাধ্যায় হরপ্রসাদ শাস্ত্রী ১৯০৭ সালে নেপালের রয়েল লাইব্রেরি থেকে একসঙ্গে ৪টি গ্রন্থ আবিষ্কার করেন, যার একটি চর্যাপদ। বাকি ৩টি অপভ্রংশ ভাষায় রচিত — সরহপাদের দোঁহা, কৃষ্ণপাদের দোঁহা এবং ডাকার্ণব। ৪টি গ্রন্থ একসঙ্গে কলিকাতার 'বঙ্গীয় সাহিত্য পরিষদ' থেকে ১৯১৬ সালে প্রকাশিত হয়, তখন এদের একসঙ্গে নাম দেওয়া হয় 'হাজার বছরের পুরোনো বাঙ্গালা ভাষার বৌদ্ধ গান ও দোহা'।"
+        },
+        {
+          "heading": "আদি নিদর্শন প্রমাণ",
+          "body": "ড. সুনীতিকুমার চট্টোপাধ্যায় ১৯২৬ সালে 'The Origin and Development of Bengali Language (ODBL)' গ্রন্থে চর্যাপদের ভাষাবিষয়ক গবেষণা করে প্রমাণ করেন চর্যাপদ বাংলা ভাষার আদি নিদর্শন। ১৯২৭ সালে ড. মুহম্মদ শহীদুল্লাহ 'Buddhist Mystic Songs' গ্রন্থে চর্যাপদের ধর্মতত্ত্ব বিষয়ক গবেষণা করে প্রমাণ করেন চর্যাপদ বাংলা সাহিত্যের আদি নিদর্শন।"
+        },
+        {
+          "heading": "ভাষা ও ছন্দ",
+          "body": "চর্যাপদ প্রাচীন বাংলা ভাষায় রচিত, তবে হিন্দি, মৈথিলী, অসমিয়া ও সংস্কৃত ভাষার প্রভাব রয়েছে। ড. হরপ্রসাদ শাস্ত্রী এই ভাষাকে সান্ধ্য ভাষা/সন্ধ্যা ভাষা/আলো-আঁধারের ভাষা বলেছেন; ড. মুহম্মদ শহীদুল্লাহ একে বলেছেন বঙ্গকামরূপী ভাষা। চর্যাপদে একবচন-বহুবচনের এবং শ, স, ষ বর্ণের কোনো পার্থক্য নেই। ছন্দ মূলত পয়ার ও ত্রিপদী, তবে আধুনিক ছন্দ বিচারে মাত্রাবৃত্ত।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_choryapod_akhbar",
+          "label": "চর্যাপদের অর্থ",
+          "value": "আচরণ/সাধনা",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_choryapod_avishkar_1882",
+          "label": "চর্যাপদ আবিষ্কার-সংক্রান্ত তথ্য প্রকাশ",
+          "value": "রাজা রাজেন্দ্রলাল মিত্র, 'Sanskrit Buddhist Literature in Nepal' গ্রন্থে",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          },
+          "year": 1882
+        },
+        {
+          "id": "f_choryapod_avishkar_1907",
+          "label": "চর্যাপদ আবিষ্কার",
+          "value": "হরপ্রসাদ শাস্ত্রী, নেপালের রয়েল লাইব্রেরি থেকে ৪টি গ্রন্থসহ",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          },
+          "year": 1907
+        },
+        {
+          "id": "f_choryapod_prokash_1916",
+          "label": "চর্যাপদসহ ৪ গ্রন্থ প্রকাশ",
+          "value": "কলিকাতার বঙ্গীয় সাহিত্য পরিষদ থেকে",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          },
+          "year": 1916
+        },
+        {
+          "id": "f_choryapod_naam_1916",
+          "label": "চারটি গ্রন্থের একত্র নাম",
+          "value": "হাজার বছরের পুরোনো বাঙ্গালা ভাষার বৌদ্ধ গান ও দোহা",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_choryapod_odbl_1926",
+          "label": "চর্যাপদ বাংলা ভাষার আদি নিদর্শন প্রমাণ",
+          "value": "ড. সুনীতিকুমার চট্টোপাধ্যায়, ODBL গ্রন্থে",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          },
+          "year": 1926
+        },
+        {
+          "id": "f_choryapod_bms_1927",
+          "label": "চর্যাপদ বাংলা সাহিত্যের আদি নিদর্শন প্রমাণ",
+          "value": "ড. মুহম্মদ শহীদুল্লাহ, 'Buddhist Mystic Songs' গ্রন্থে",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          },
+          "year": 1927
+        },
+        {
+          "id": "f_choryapod_prapti_sthan",
+          "label": "চর্যাপদের প্রাপ্তিস্থান",
+          "value": "নেপাল (রয়েল লাইব্রেরি)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_choryapod_bhasha_horoprosad",
+          "label": "চর্যাপদের ভাষার নাম (হরপ্রসাদ শাস্ত্রীর মতে)",
+          "value": "সান্ধ্য ভাষা / সন্ধ্যা ভাষা / আলো-আঁধারের ভাষা",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_choryapod_bhasha_shahidullah",
+          "label": "চর্যাপদের ভাষার নাম (শহীদুল্লাহর মতে)",
+          "value": "বঙ্গকামরূপী ভাষা",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_choryapod_chondo",
+          "label": "চর্যাপদের ছন্দ",
+          "value": "মূলত পয়ার ও ত্রিপদী; আধুনিক বিচারে মাত্রাবৃত্ত",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_choryapod_dhormo",
+          "label": "চর্যাপদের ধর্মমত",
+          "value": "বৌদ্ধ সহজিয়া ধর্মের সাধনতত্ত্ব",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_choryapod_podsonkha_shahidullah",
+          "label": "চর্যাপদের পদসংখ্যা (শহীদুল্লাহর মতে)",
+          "value": "৫০টি",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_choryapod_podsonkha_sukumar",
+          "label": "চর্যাপদের পদসংখ্যা (সুকুমার সেনের মতে)",
+          "value": "৫১টি",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_choryapod_podkorta_shahidullah",
+          "label": "চর্যাপদের পদকর্তা সংখ্যা (শহীদুল্লাহর মতে)",
+          "value": "২৩ জন",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_choryapod_podkorta_sukumar",
+          "label": "চর্যাপদের পদকর্তা সংখ্যা (সুকুমার সেনের মতে)",
+          "value": "২৪ জন",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_choryapod_adi_kobi",
+          "label": "চর্যাপদের আদি কবি",
+          "value": "লুইপা",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_choryapod_prachin_kobi_shahidullah",
+          "label": "চর্যাপদের প্রাচীন কবি (শহীদুল্লাহর মতে)",
+          "value": "শবরপা",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_choryapod_bangali_kobi",
+          "label": "চর্যাপদের বাঙালি কবি বলে দাবিকৃত",
+          "value": "ভুসুকুপা (৪৯ নং পদে নিজেকে বাঙালি বলে দাবি করেছেন)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_choryapod_nari_kobi",
+          "label": "চর্যাপদের একমাত্র নারী কবি",
+          "value": "কুক্কুরীপা",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_choryapod_tika",
+          "label": "চর্যাপদের টীকাকার",
+          "value": "মুনিদত্ত (সংস্কৃত ভাষায়); তিব্বতি অনুবাদ প্রবোধচন্দ্র বাগচী আবিষ্কার/প্রকাশ করেন ১৯৩৮ সালে",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          },
+          "year": 1938
+        },
+        {
+          "id": "f_choryapod_ingreji_onubad",
+          "label": "চর্যাপদের ইংরেজি অনুবাদক",
+          "value": "হাসনা জসীম উদ্দীন মওদুদ, বইয়ের নাম 'মিস্টিক পোয়েট্রি অব বাংলাদেশ'",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_nobo_choryapod",
+          "label": "নব চর্যাপদ",
+          "value": "রচনাকাল ১৩-১৬ শতক; ড. অমিতকুমার বন্দ্যোপাধ্যায় ১৯৮৮ সালে কলকাতা থেকে প্রকাশ করেন, ড. শশীভূষণ দাস ১৯৬০ সালে নেপাল থেকে আবিষ্কার করেন; পদসংখ্যা ২৫০টি বলা হলেও প্রকাশিত হয় ৯৮টি পদ",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          },
+          "year": 1988
+        },
+        {
+          "id": "f_notun_choryapod",
+          "label": "নতুন চর্যাপদ",
+          "value": "ঢাবির বাংলা বিভাগের অধ্যাপক ড. সৈয়দ মুহম্মদ শাহেদ ২০০৮ সালে নেপাল থেকে আবিষ্কার করেন, ২০১৭ সালে প্রকাশিত হয়",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          },
+          "year": 2008
+        }
+      ],
+      "relatedPersonIds": [
+        "person_horoprosad_shastri",
+        "person_sunitikumar_chattopadhyay",
+        "person_muhammad_shahidullah"
+      ],
+      "relatedTopicIds": [
+        "topic_prachin_yug"
+      ],
+      "tags": [
+        "চর্যাপদ",
+        "প্রাচীন যুগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "topic_ondhokar_yug",
+      "type": "topic",
+      "title": "অন্ধকার যুগ (১২০১-১৩৫০)",
+      "shortDescription": "প্রাচীন ও মধ্যযুগের মাঝামাঝি সময়, এই সময়ের সাহিত্যকর্মের সংখ্যা কম বলে 'অন্ধকার যুগ' নামে পরিচিত।",
+      "detailedSections": [
+        {
+          "heading": "সময়কাল ও সাহিত্যকর্ম",
+          "body": "অন্ধকার যুগ ১২০১-১৩৫০ সাল সময়কালকে বোঝায়। এই যুগের সাহিত্যকর্মের মধ্যে আছে প্রাকৃতপৈঙ্গল, শূন্যপুরাণ, নিরঞ্জনের উষ্মা এবং সেক শুভোদয়া।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_ondhokar_shomoy",
+          "label": "অন্ধকার যুগের সময়কাল",
+          "value": "১২০১-১৩৫০",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_shunyopuran_lekhok",
+          "label": "শূন্যপুরাণ রচয়িতা",
+          "value": "রামাই পণ্ডিত",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_ondhokar_sahityokormo",
+          "label": "অন্ধকার যুগের সাহিত্যকর্মসমূহ",
+          "value": "প্রাকৃতপৈঙ্গল, শূন্যপুরাণ, নিরঞ্জনের উষ্মা, সেক শুভোদয়া",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedTopicIds": [
+        "topic_prachin_yug",
+        "topic_modhyo_yug"
+      ],
+      "tags": [
+        "অন্ধকার যুগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "topic_modhyo_yug",
+      "type": "topic",
+      "title": "মধ্যযুগ (১২০১-১৮০০)",
+      "shortDescription": "বাংলা সাহিত্যের মধ্যযুগ — মৌলিক সাহিত্য (শ্রীকৃষ্ণকীর্তন, বৈষ্ণব সাহিত্য, মঙ্গলকাব্য, লোকসাহিত্য, নাথসাহিত্য, মর্সিয়া) ও অনুবাদ সাহিত্যে বিভক্ত।",
+      "detailedSections": [
+        {
+          "heading": "শ্রীচৈতন্যদেবের প্রভাবে উপবিভাগ",
+          "body": "বাংলা সাহিত্যে শ্রীচৈতন্যদেবের প্রভাবের ভিত্তিতে মধ্যযুগকে তিন ভাগে ভাগ করা হয় — প্রাক-চৈতন্য যুগ (১৩৫১-১৫০০ খ্রি.), চৈতন্য যুগ (১৫০১-১৬০০ খ্রি.), এবং চৈতন্য পরবর্তী যুগ (১৬০১-১৮০০ খ্রি., মতান্তরে ১৭০১-১৮০০ খ্রি.)।"
+        },
+        {
+          "heading": "মৌলিক ও অনুবাদ সাহিত্যের ধারা",
+          "body": "মধ্যযুগের বাংলা সাহিত্য মৌলিক সাহিত্য ও অনুবাদ সাহিত্যে ভাগ করা যায়। মৌলিক সাহিত্যের ধারাগুলো হলো শ্রীকৃষ্ণকীর্তন কাব্য, বৈষ্ণব সাহিত্য (বৈষ্ণব পদাবলি, জীবনী সাহিত্য, বৈষ্ণব শাস্ত্র), মঙ্গলকাব্য, লোকসাহিত্য, নাথসাহিত্য ও মর্সিয়া। অনুবাদ সাহিত্য হয়েছে আরবি-ফারসি-হিন্দি ভাষা থেকে এবং সংস্কৃত থেকে।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_prak_choitonno",
+          "label": "প্রাক-চৈতন্য যুগ",
+          "value": "১৩৫১-১৫০০ খ্রি.",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_choitonno_jug",
+          "label": "চৈতন্য যুগ",
+          "value": "১৫০১-১৬০০ খ্রি.",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_choitonno_porborti",
+          "label": "চৈতন্য পরবর্তী যুগ",
+          "value": "১৬০১-১৮০০ খ্রি. (মতান্তরে ১৭০১-১৮০০ খ্রি.)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedTopicIds": [
+        "topic_jug_bivag",
+        "topic_ondhokar_yug"
+      ],
+      "relatedBookIds": [
+        "book_shrikrishna_kirtan"
+      ],
+      "tags": [
+        "মধ্যযুগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "book_shrikrishna_kirtan",
+      "type": "book",
+      "title": "শ্রীকৃষ্ণকীর্তন",
+      "shortDescription": "বড়ু চণ্ডীদাস রচিত মধ্যযুগের আখ্যানকাব্য, রাধা-কৃষ্ণের প্রেমলীলা নিয়ে রচিত, ১৩টি খণ্ডে বিভক্ত।",
+      "detailedSections": [
+        {
+          "heading": "পুঁথি আবিষ্কার ও সম্পাদনা",
+          "body": "১৯০৯ খ্রিস্টাব্দে (১৩১৬ বঙ্গাব্দ) বাঁকুড়া জেলার বেলিয়াতোড় গ্রামের অধিবাসী বসন্তরঞ্জন রায় বিদ্বদ্বল্লভ বাঁকুড়া জেলার বিষ্ণুপুর শহরের নিকটবর্তী কাকিল্যা গ্রামে দেবেন্দ্রনাথ মুখোপাধ্যায়ের বাড়ির গোয়ালঘরের মাচা থেকে পুঁথিটি পান। ১৯১৬ খ্রিস্টাব্দে (১৩২৩ বঙ্গাব্দ) কলকাতার 'বঙ্গীয় সাহিত্য পরিষদ' থেকে 'শ্রীকৃষ্ণকীর্তন' নামে সম্পাদনা করেন।"
+        },
+        {
+          "heading": "রচনাকাল নিয়ে মতভেদ",
+          "body": "শ্রীকৃষ্ণকীর্তন কাব্যের রচনাকাল নিয়ে বিশেষজ্ঞদের ভিন্নমত আছে: পুঁথিতে প্রাপ্ত চিরকুটটি ১০৮৯ বঙ্গাব্দের, সেই হিসেবে এটি ১৬৮২ সালের রচনা। রাখাল দাস বন্দ্যোপাধ্যায়ের মতে এই পুঁথি ১৩৫৮ খ্রিস্টাব্দের পূর্বে, সম্ভবত চতুর্দশ শতাব্দীর প্রথমার্ধে লিখিত। সুনীতিকুমার চট্টোপাধ্যায় এই কাব্যের ভাষাকে ১৫০০ খ্রিস্টাব্দের পূর্বের বলেছেন। ড. মুহম্মদ শহীদুল্লাহর মতে ১৩৪০-১৪৪০ খ্রিস্টাব্দ।"
+        },
+        {
+          "heading": "লেখক ও চরিত্র",
+          "body": "শ্রীকৃষ্ণকীর্তন কাব্যের রচয়িতা বড়ু চণ্ডীদাস। কাব্যে তাঁর তিনটি ভণিতা পাওয়া যায় — বড়ুচণ্ডীদাস, চণ্ডীদাস ও অনন্ত বড়ু চণ্ডীদাস। বড়ুচণ্ডীদাস বাসলী দেবীর উপাসক ছিলেন; এই বাসলী দেবী প্রকৃতপক্ষে শক্তিদেবী মনসার অপর নাম। হুমায়ুন আজাদের মতে তিনি বাংলা ভাষার প্রথম মহাকবি। কাব্যে প্রধান চরিত্র তিনটি — কৃষ্ণ (পরমাত্মা বা ঈশ্বরের প্রতীক), রাধা (জীবাত্মা বা প্রাণীকূলের প্রতীক), এবং বড়াই (রাধা-কৃষ্ণের প্রেমের দূতি)।"
+        },
+        {
+          "heading": "ছন্দ ও নাট্যগুণ",
+          "body": "শ্রীকৃষ্ণকীর্তন কাব্যই প্রথম 'অক্ষরবৃত্ত' রীতির বিচিত্র ছন্দবন্ধের বলিষ্ঠ প্রকাশ। গঠনরীতি অনুসারে এটি নাটগীতি কাব্য/নাট্যগীত, প্রকরণের দিক থেকে পদাবলি, রস সঞ্চলনের দিক থেকে ধামালি, কাহিনি বর্ণনার দিক থেকে প্রেমগীত। এই কাব্যে নাট্যগুণ ও কাব্যগুণের সমন্বয় ঘটেছে; নাট্যগীতিপাঞ্চালিরূপে শ্রীকৃষ্ণকীর্তনের সার্থকতা স্বীকৃত।"
+        },
+        {
+          "heading": "খণ্ডবিভাগ",
+          "body": "শ্রীকৃষ্ণকীর্তন ১৩টি খণ্ডে বিভক্ত — জন্ম খণ্ড, তাম্বুল খণ্ড, দান খণ্ড, নৌকা খণ্ড, ভার খণ্ড, ছত্র খণ্ড, বৃন্দাবন খণ্ড, কালিয়দমন খণ্ড, যমুনা খণ্ড, হার খণ্ড, বাণ খণ্ড, বংশী খণ্ড, রাধা বিরহ খণ্ড।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_skk_puthi_avishkar",
+          "label": "শ্রীকৃষ্ণকীর্তনের পুঁথি আবিষ্কারক",
+          "value": "বসন্তরঞ্জন রায় বিদ্বদ্বল্লভ",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          },
+          "year": 1909
+        },
+        {
+          "id": "f_skk_avishkar_sthan",
+          "label": "শ্রীকৃষ্ণকীর্তনের পুঁথি যেখান থেকে উদ্ধার করা হয়",
+          "value": "কাকিল্যা গ্রামে দেবেন্দ্রনাথ মুখোপাধ্যায়ের বাড়ির গোয়ালঘরের মাচা থেকে",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_skk_kakilya",
+          "label": "কাকিল্যা গ্রাম বাংলা সাহিত্যে গুরুত্বপূর্ণ কারণ",
+          "value": "শ্রীকৃষ্ণকীর্তন কাব্যের প্রাপ্তিস্থান",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_skk_shompadona",
+          "label": "শ্রীকৃষ্ণকীর্তন নামে সম্পাদনা",
+          "value": "বসন্তরঞ্জন রায় বিদ্বদ্বল্লভ, বঙ্গীয় সাহিত্য পরিষদ থেকে",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          },
+          "year": 1916
+        },
+        {
+          "id": "f_skk_rochonakal_1",
+          "label": "রচনাকাল মত (পুঁথির চিরকুট অনুসারে)",
+          "value": "১০৮৯ বঙ্গাব্দ্ = ১৬৮২ খ্রিস্টাব্দ",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_skk_rochonakal_2",
+          "label": "রচনাকাল মত (রাখাল দাস বন্দ্যোপাধ্যায়ের মতে)",
+          "value": "১৩৫৮ খ্রিস্টাব্দের পূর্বে, সম্ভবত চতুর্দশ শতাব্দীর প্রথমার্ধ",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_skk_rochonakal_3",
+          "label": "রচনাকাল মত (সুনীতিকুমার চট্টোপাধ্যায়ের মতে)",
+          "value": "১৫০০ খ্রিস্টাব্দের পূর্বে",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_skk_rochonakal_4",
+          "label": "রচনাকাল মত (মুহম্মদ শহীদুল্লাহর মতে)",
+          "value": "১৩৪০-১৪৪০ খ্রিস্টাব্দ",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_skk_lekhok",
+          "label": "শ্রীকৃষ্ণকীর্তন কাব্যের রচয়িতা",
+          "value": "বড়ু চণ্ডীদাস",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_skk_bhonita",
+          "label": "শ্রীকৃষ্ণকীর্তনে পাওয়া তিনটি ভণিতা",
+          "value": "বড়ুচণ্ডীদাস, চণ্ডীদাস, অনন্ত বড়ু চণ্ডীদাস",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_skk_devi",
+          "label": "বড়ুচণ্ডীদাসের উপাস্য দেবী",
+          "value": "বাসলী দেবী (মনসার অপর নাম)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_skk_mohakobi",
+          "label": "হুমায়ুন আজাদের মতে বড়ু চণ্ডীদাস",
+          "value": "বাংলা ভাষার প্রথম মহাকবি",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_skk_choritro_krishna",
+          "label": "শ্রীকৃষ্ণকীর্তনের চরিত্র - কৃষ্ণ",
+          "value": "পরমাত্মা বা ঈশ্বরের প্রতীক",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_skk_choritro_radha",
+          "label": "শ্রীকৃষ্ণকীর্তনের চরিত্র - রাধা",
+          "value": "জীবাত্মা বা প্রাণীকূলের প্রতীক",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_skk_choritro_borai",
+          "label": "শ্রীকৃষ্ণকীর্তনের চরিত্র - বড়াই",
+          "value": "রাধা-কৃষ্ণের প্রেমের দূতি",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_skk_chondo",
+          "label": "শ্রীকৃষ্ণকীর্তনের ছন্দ",
+          "value": "প্রথম অক্ষরবৃত্ত রীতির প্রকাশ",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_skk_khondo_songkha",
+          "label": "শ্রীকৃষ্ণকীর্তনের খণ্ডসংখ্যা",
+          "value": "১৩টি (জন্ম, তাম্বুল, দান, নৌকা, ভার, ছত্র, বৃন্দাবন, কালিয়দমন, যমুনা, হার, বাণ, বংশী, রাধাবিরহ)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedPersonIds": [
+        "person_chandidas"
+      ],
+      "relatedTopicIds": [
+        "topic_modhyo_yug"
+      ],
+      "tags": [
+        "শ্রীকৃষ্ণকীর্তন",
+        "মধ্যযুগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "topic_mangalkabya",
+      "type": "topic",
+      "title": "মঙ্গলকাব্য",
+      "shortDescription": "মধ্যযুগে দেব-দেবীর গুণগান নিয়ে রচিত বিশেষ শ্রেণির ধর্মবিষয়ক আখ্যান কাব্য।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয় ও গঠন",
+          "body": "বাংলা সাহিত্যের মধ্যযুগে বিশেষ এক শ্রেণির ধর্মবিষয়ক আখ্যান কাব্যই হলো মঙ্গলকাব্য। মূল উপজীব্য দেব-দেবীর গুণগান। একটি সম্পূর্ণ মঙ্গলকাব্যে সাধারণত ৫টি অংশ থাকে — বন্দনা, আত্মপরিচয়, দেবখণ্ড, মর্ত্যখণ্ড ও শ্রুতিফল। আদি মঙ্গলকাব্য হিসেবে পরিচিত মনসামঙ্গল কাব্য।"
+        },
+        {
+          "heading": "প্রধান ও অপ্রধান ধারা",
+          "body": "মঙ্গলকাব্যের প্রধান ধারা — মনসামঙ্গল, চণ্ডীমঙ্গল ও অন্নদামঙ্গল। অপ্রধান ধারা — ধর্মমঙ্গল, কালিকামঙ্গল, শীতলামঙ্গল, ষষ্ঠীমঙ্গল, সারদামঙ্গল, রায়মঙ্গল, গঙ্গামঙ্গল, দূর্গামঙ্গল ইত্যাদি। শ্রেণিগত দিক থেকে মঙ্গলকাব্যকে পৌরাণিক শ্রেণি (গৌরীমঙ্গল, ভবানীমঙ্গল, দূর্গামঙ্গল, অন্নদামঙ্গল, কমলামঙ্গল, গঙ্গামঙ্গল, চণ্ডীমঙ্গল প্রভৃতি) ও লৌকিক শ্রেণিতে (শিবায়ন/শিবমঙ্গল, মনসামঙ্গল, চণ্ডীমঙ্গল, শীতলামঙ্গল, রায়মঙ্গল, কালিকামঙ্গল/বিদ্যাসুন্দর, ষষ্ঠীমঙ্গল, সারদামঙ্গল, সূর্যমঙ্গল প্রভৃতি) ভাগ করা যায়।"
+        },
+        {
+          "heading": "বারোমাস্যা ও চৌতিশা",
+          "body": "বারোমাস্যা হলো মধ্যযুগের নায়ক-নায়িকাদের বাংলা সনের বার মাসের বিরহ-কাতর পরিস্থিতির বর্ণনা। চৌতিশা হলো বাংলা ব্যঞ্জনবর্ণের 'ক' থেকে 'হ' পর্যন্ত প্রতিটি বর্ণ পদের প্রথমে ব্যবহার করে বিপন্ন নায়ক-নায়িকার দেব বন্দনামূলক স্তব।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_mongolkabbo_ongsho",
+          "label": "সম্পূর্ণ মঙ্গলকাব্যের অংশসমূহ",
+          "value": "বন্দনা, আত্মপরিচয়, দেবখণ্ড, মর্ত্যখণ্ড, শ্রুতিফল (মোট ৫টি)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_mongolkabbo_adi",
+          "label": "আদি মঙ্গলকাব্য হিসেবে পরিচিত",
+          "value": "মনসামঙ্গল কাব্য",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_mongolkabbo_prodhan_dhara",
+          "label": "মঙ্গলকাব্যের প্রধান ধারা",
+          "value": "মনসামঙ্গল, চণ্ডীমঙ্গল, অন্নদামঙ্গল",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_mongolkabbo_oprodhan_dhara",
+          "label": "মঙ্গলকাব্যের অপ্রধান ধারা",
+          "value": "ধর্মমঙ্গল, কালিকামঙ্গল, শীতলামঙ্গল, ষষ্ঠীমঙ্গল, সারদামঙ্গল, রায়মঙ্গল, গঙ্গামঙ্গল, দূর্গামঙ্গল",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_baromashsha",
+          "label": "বারোমাস্যা",
+          "value": "বাংলা সনের বার মাসের বিরহ-কাতর পরিস্থিতির বর্ণনা",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_choutisha",
+          "label": "চৌতিশা",
+          "value": "বাংলা ব্যঞ্জনবর্ণের ক-হ প্রতিটি বর্ণ পদের প্রথমে ব্যবহার করে দেব বন্দনামূলক স্তব",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedBookIds": [
+        "book_manasamangal",
+        "book_dharmamangal",
+        "book_chandimangal",
+        "book_kalikamangal",
+        "book_annadamangal"
+      ],
+      "relatedTopicIds": [
+        "topic_modhyo_yug"
+      ],
+      "tags": [
+        "মঙ্গলকাব্য",
+        "মধ্যযুগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "book_manasamangal",
+      "type": "book",
+      "title": "মনসামঙ্গল কাব্য",
+      "shortDescription": "মঙ্গলকাব্য ধারার প্রাচীনতম কাব্য, মনসা দেবীর কাহিনি নিয়ে রচিত; অপর নাম পদ্মাপুরাণ।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয়",
+          "body": "মনসামঙ্গল মঙ্গলকাব্য ধারার প্রাচীনতম কাব্য, মনসা দেবীর কাহিনি নিয়ে রচিত। এ কাব্যের অপর নাম পদ্মাপুরাণ। সাপের দেবী মনসার অপর নাম কেতকা ও পদ্মাবতী। প্রধান চরিত্র চাঁদ সওদাগর, বেহুলা, লখিন্দর।"
+        },
+        {
+          "heading": "প্রধান কবিগণ",
+          "body": "কানা হরিদত্ত এ ধারার আদি কবি ও পূর্ববঙ্গের অধিবাসী ছিলেন। বিজয় গুপ্ত এ ধারার শ্রেষ্ঠ কবি ও মনসামঙ্গল কাব্যের প্রথম রচয়িতা, তাঁর কাব্যের নাম পদ্মাপুরাণ। নারায়ণ দেব সুকবি বল্লভ উপাধিধারী, জন্ম কিশোরগঞ্জ। বিপ্রদাস পিপিলাই রচিত কাব্যের নাম 'মনসা বিজয়'। কিশোরগঞ্জের পাতুয়ারীতে জন্ম নেওয়া দ্বিজ বংশীদাসের রচিত কাব্য 'পদ্মাপুরাণ'; তিনি প্রথম মহিলা কবি চন্দ্রাবতীর পিতা। কেতকাদাস ক্ষেমানন্দ পশ্চিমবঙ্গ থেকে মঙ্গলকাব্যের একমাত্র কবি, রচিত কাব্য 'কেতকাপুরাণ' — মঙ্গলকাব্যের প্রথম মুদ্রিত কাব্য; ক্ষেমানন্দ তাঁর নাম ও কেতকাদাস তাঁর উপাধি।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_monosha_opor_naam",
+          "label": "মনসামঙ্গল কাব্যের অপর নাম",
+          "value": "পদ্মাপুরাণ",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_monosha_devir_naam",
+          "label": "মনসা দেবীর অপর নাম",
+          "value": "কেতকা ও পদ্মাবতী",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_monosha_choritro",
+          "label": "মনসামঙ্গলের প্রধান চরিত্র",
+          "value": "চাঁদ সওদাগর, বেহুলা, লখিন্দর",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_monosha_adi_kobi",
+          "label": "মনসামঙ্গল ধারার আদি কবি",
+          "value": "কানা হরিদত্ত (পূর্ববঙ্গের অধিবাসী)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_monosha_sreshtho_kobi",
+          "label": "মনসামঙ্গল ধারার শ্রেষ্ঠ কবি ও প্রথম রচয়িতা",
+          "value": "বিজয় গুপ্ত (কাব্যের নাম: পদ্মাপুরাণ)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_monosha_narayan_dev",
+          "label": "নারায়ণ দেব",
+          "value": "উপাধি সুকবি বল্লভ, জন্ম কিশোরগঞ্জ, কাব্যের নাম পদ্মাপুরাণ",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_monosha_biprodas",
+          "label": "বিপ্রদাস পিপিলাই এর কাব্য",
+          "value": "মনসা বিজয়",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_monosha_bongshidash",
+          "label": "দ্বিজ বংশীদাস",
+          "value": "জন্ম কিশোরগঞ্জের পাতুয়ারীতে, কাব্য পদ্মাপুরাণ, প্রথম মহিলা কবি চন্দ্রাবতীর পিতা",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_monosha_ketokadash",
+          "label": "কেতকাদাস ক্ষেমানন্দ",
+          "value": "পশ্চিমবঙ্গ থেকে মঙ্গলকাব্যের একমাত্র কবি; কাব্য কেতকাপুরাণ, যা মঙ্গলকাব্যের প্রথম মুদ্রিত কাব্য",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedTopicIds": [
+        "topic_mangalkabya"
+      ],
+      "tags": [
+        "মনসামঙ্গল",
+        "মঙ্গলকাব্য",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "book_dharmamangal",
+      "type": "book",
+      "title": "ধর্মমঙ্গল",
+      "shortDescription": "ডোম সমাজে প্রচলিত পুরুষ দেবতা ধর্ম ঠাকুরের ওপর রচিত মঙ্গলকাব্য।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয় ও কবিগণ",
+          "body": "ডোম সমাজে প্রচলিত পুরুষ দেবতা ধর্ম ঠাকুরের ওপর রচিত মঙ্গলকাব্য হলো ধর্মমঙ্গল। ময়ূর ভট্ট এই ধারার আদি/প্রথম কবি, তাঁর কাব্যের নাম 'শূন্যপুরাণ' নয় বরং 'হাকন্দপুরাণ'। এ কাব্যের দুজন প্রধান কবি রূপরাম চক্রবর্তী ও ঘনরাম চক্রবর্তী। ঘনরাম চক্রবর্তী ধর্মমঙ্গল ধারার শ্রেষ্ঠ কবি, তাঁর কাব্যের নাম 'শ্রীধর্মমঙ্গল'। এই কাব্য দুটি পালায় বিভক্ত — রাজা হরিশ্চন্দ্রের কাহিনি ও লাউসেনের কাহিনি।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_dhormo_adi_kobi",
+          "label": "ধর্মমঙ্গল ধারার আদি/প্রথম কবি",
+          "value": "ময়ূর ভট্ট (কাব্য: হাকন্দপুরাণ)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_dhormo_prodhan_kobi",
+          "label": "ধর্মমঙ্গলের দুজন প্রধান কবি",
+          "value": "রূপরাম চক্রবর্তী ও ঘনরাম চক্রবর্তী",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_dhormo_sreshtho_kobi",
+          "label": "ধর্মমঙ্গল ধারার শ্রেষ্ঠ কবি",
+          "value": "ঘনরাম চক্রবর্তী (কাব্য: শ্রীধর্মমঙ্গল)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_dhormo_pala",
+          "label": "ধর্মমঙ্গল কাব্যের পালাবিভাগ",
+          "value": "রাজা হরিশ্চন্দ্রের কাহিনি ও লাউসেনের কাহিনি",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedTopicIds": [
+        "topic_mangalkabya"
+      ],
+      "tags": [
+        "ধর্মমঙ্গল",
+        "মঙ্গলকাব্য"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "book_chandimangal",
+      "type": "book",
+      "title": "চণ্ডীমঙ্গল",
+      "shortDescription": "দেবী চণ্ডীর (শিবের স্ত্রী) কাহিনি নিয়ে রচিত মঙ্গলকাব্য, দুই খণ্ডে বিভক্ত।",
+      "detailedSections": [
+        {
+          "heading": "কাহিনি বিভাগ ও চরিত্র",
+          "body": "চণ্ডীমঙ্গল দেবী চণ্ডীর (শিবের স্ত্রী) কাহিনি নিয়ে রচিত, দুই খণ্ডে বিভক্ত — আখেটিক খণ্ড/ব্যাধ খণ্ড এবং বণিক খণ্ড। আখেটিক খণ্ডের প্রধান চরিত্র কালকেতু, ফুল্লরা, ভাঁড়ুদত্ত, মুরারীশীল। বণিক খণ্ডের প্রধান চরিত্র ধনপতি সদাগর, লহনা-খুল্লনা, খুল্লনার পুত্র শ্রীমন্ত। বাংলা সাহিত্যের প্রথম ঠগ চরিত্র ভাঁড়ুদত্ত।"
+        },
+        {
+          "heading": "প্রধান কবিগণ",
+          "body": "মানিক দত্ত চণ্ডীমঙ্গল ধারার আদি কবি। মুকুন্দরাম চক্রবর্তী চণ্ডীমঙ্গল ধারার শ্রেষ্ঠ কবি, দুঃখ বর্ণনার কবি বলা হয়; জমিদার রঘুনাথ রায় তাঁকে 'কবিকঙ্কন' উপাধি দেন, তাঁর কাব্যের নাম 'শ্রী শ্রী চণ্ডীমঙ্গল'। দ্বিজ মাধব স্বভাব কবি হিসেবে পরিচিত, কাব্যের নাম 'সারদামঙ্গল/সারদাচরিত'। অকিঞ্চন চক্রবর্তী চণ্ডীমঙ্গল কাব্যধারার সর্বশেষ কবি, উপাধি কবীন্দ্র। ভবানীশঙ্কর দাস 'জাগরণের পুঁথি' ও 'চণ্ডীমঙ্গল গীত' নামে ২টি কাব্য রচনা করেন।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_chondi_khondo",
+          "label": "চণ্ডীমঙ্গলের কাহিনি বিভাগ",
+          "value": "আখেটিক খণ্ড/ব্যাধ খণ্ড এবং বণিক খণ্ড",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_chondi_akheti_choritro",
+          "label": "আখেটিক খণ্ডের প্রধান চরিত্র",
+          "value": "কালকেতু, ফুল্লরা, ভাঁড়ুদত্ত, মুরারীশীল",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_chondi_bonik_choritro",
+          "label": "বণিক খণ্ডের প্রধান চরিত্র",
+          "value": "ধনপতি সদাগর, লহনা, খুল্লনা, খুল্লনার পুত্র শ্রীমন্ত",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_chondi_prothom_thog",
+          "label": "বাংলা সাহিত্যের প্রথম ঠগ চরিত্র",
+          "value": "ভাঁড়ুদত্ত",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_chondi_adi_kobi",
+          "label": "চণ্ডীমঙ্গল ধারার আদি কবি",
+          "value": "মানিক দত্ত",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_chondi_sreshtho_kobi",
+          "label": "চণ্ডীমঙ্গল ধারার শ্রেষ্ঠ কবি",
+          "value": "মুকুন্দরাম চক্রবর্তী, উপাধি 'কবিকঙ্কন' (জমিদার রঘুনাথ রায় প্রদত্ত), কাব্য: শ্রী শ্রী চণ্ডীমঙ্গল",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_chondi_dwijo_madhob",
+          "label": "দ্বিজ মাধব",
+          "value": "স্বভাব কবি হিসেবে পরিচিত, কাব্য: সারদামঙ্গল/সারদাচরিত",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_chondi_okinchon",
+          "label": "অকিঞ্চন চক্রবর্তী",
+          "value": "চণ্ডীমঙ্গল কাব্যধারার সর্বশেষ কবি, উপাধি কবীন্দ্র",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_chondi_bhabanishonkor",
+          "label": "ভবানীশঙ্কর দাস",
+          "value": "রচনা: জাগরণের পুঁথি ও চণ্ডীমঙ্গল গীত",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedPersonIds": [
+        "person_mukundaram_chakrabarti"
+      ],
+      "relatedTopicIds": [
+        "topic_mangalkabya"
+      ],
+      "tags": [
+        "চণ্ডীমঙ্গল",
+        "মঙ্গলকাব্য",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "book_kalikamangal",
+      "type": "book",
+      "title": "কালিকামঙ্গল",
+      "shortDescription": "দেবী কালীর মাহাত্ম্য বর্ণনামূলক কাব্য, অপর নাম বিদ্যাসুন্দর কাব্য।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয় ও কবিগণ",
+          "body": "কালিকামঙ্গল দেবী কালীর মাহাত্ম্য বর্ণনামূলক কাব্য, অপর নাম বিদ্যাসুন্দর কাব্য। কালিকামঙ্গলের আদি কবি কবি কঙ্ক। রামপ্রসাদ সেন কালিকামঙ্গলের একজন বিশিষ্ট কবি, নবদ্বীপের রাজা কৃষ্ণচন্দ্র তাঁকে 'কবিরঞ্জন' উপাধি প্রদান করেন। গোবিন্দ দাস রচিত কাব্যের নাম 'কালিকামঙ্গল'।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_kalika_opor_naam",
+          "label": "কালিকামঙ্গলের অপর নাম",
+          "value": "বিদ্যাসুন্দর কাব্য",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_kalika_adi_kobi",
+          "label": "কালিকামঙ্গলের আদি কবি",
+          "value": "কবি কঙ্ক",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_kalika_ramprasad",
+          "label": "রামপ্রসাদ সেন",
+          "value": "কালিকামঙ্গলের বিশিষ্ট কবি, নবদ্বীপের রাজা কৃষ্ণচন্দ্র প্রদত্ত উপাধি 'কবিরঞ্জন'",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedTopicIds": [
+        "topic_mangalkabya"
+      ],
+      "tags": [
+        "কালিকামঙ্গল",
+        "মঙ্গলকাব্য"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "book_annadamangal",
+      "type": "book",
+      "title": "অন্নদামঙ্গল",
+      "shortDescription": "দেবী চণ্ডীর আরেক নাম অন্নদা কেন্দ্র করে রচিত মঙ্গলকাব্য, ভারতচন্দ্র রায়গুণাকরের বিখ্যাত রচনা।",
+      "detailedSections": [
+        {
+          "heading": "খণ্ডবিভাগ",
+          "body": "অন্নদা হলো দেবী চণ্ডীর আরেক নাম। অন্নদামঙ্গল কাব্য তিন খণ্ডে বিভক্ত — শিবনারায়ণ অন্নদামঙ্গল, কালিকামঙ্গল, এবং মানসিংহ-ভবানন্দ উপাখ্যান। 'আমার সন্তান যেন থাকে দুধে ভাতে' প্রার্থনাটি ঈশ্বরী পাটনীর।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_annada_devi",
+          "label": "অন্নদা",
+          "value": "দেবী চণ্ডীর আরেক নাম",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_annada_khondo",
+          "label": "অন্নদামঙ্গল কাব্যের খণ্ডবিভাগ",
+          "value": "শিবনারায়ণ অন্নদামঙ্গল, কালিকামঙ্গল, মানসিংহ-ভবানন্দ উপাখ্যান",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_annada_ishwari_patni",
+          "label": "'আমার সন্তান যেন থাকে দুধে ভাতে' প্রার্থনাটির উক্তিকারী চরিত্র",
+          "value": "ঈশ্বরী পাটনী",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedPersonIds": [
+        "person_bharatchandra"
+      ],
+      "relatedTopicIds": [
+        "topic_mangalkabya"
+      ],
+      "tags": [
+        "অন্নদামঙ্গল",
+        "মঙ্গলকাব্য"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "topic_boishnob_podaboli",
+      "type": "topic",
+      "title": "বৈষ্ণব পদাবলি",
+      "shortDescription": "রাধা-কৃষ্ণের প্রেমলীলাকে অবলম্বন করে রচিত মধ্যযুগের সবচেয়ে সমৃদ্ধ কাব্যধারা।",
+      "detailedSections": [
+        {
+          "heading": "শ্রীচৈতন্যদেব",
+          "body": "শ্রীচৈতন্যদেব ছিলেন বৈষ্ণব ধর্মের প্রবর্তক। তিনি ১৪৮৬ সালে নবদ্বীপে জন্মগ্রহণ করেন এবং মাত্র ৪৮ বছর বয়সে ১৫৩৩ সালে পুরীতে দেহত্যাগ করেন। নিজে একটি পদও রচনা না করলেও বাংলা সাহিত্যে তাঁর নামে আলাদা যুগের সৃষ্টি হয়েছে।"
+        },
+        {
+          "heading": "পদাবলির বৈশিষ্ট্য",
+          "body": "বৈষ্ণব পদাবলির প্রধান অবলম্বন রাধাকৃষ্ণের প্রেমলীলা। মধ্যযুগের বাংলা সাহিত্যের সবচেয়ে সমৃদ্ধ ধারা হলো বৈষ্ণব পদাবলি। শিল্পীরা ছিলেন বিদ্যাপতি, চণ্ডীদাস, জ্ঞানদাস, গোবিন্দদাস, নরহরি সরকার, বাসু ঘোষ, লোচন দাস। বিদ্যাপতি, চণ্ডীদাস, জ্ঞানদাস, গোবিন্দদাস — এই চারজনকে বৈষ্ণব পদাবলির মহাকবি বলা হয়। আলাওল, সৈয়দ সুলতান, শেখ ফয়জুল্লাহ্ও পদাবলি রচনা করেছেন। বৈষ্ণব পদাবলির আদি রচয়িতা বিদ্যাপতি। বাংলায় প্রথম পদ রচনা করেন বড়ু চণ্ডীদাস।"
+        },
+        {
+          "heading": "ভাষা ও সংকলন",
+          "body": "বৈষ্ণব পদাবলি ব্রজবুলি ও বাংলা ভাষায় রচিত। ব্রজবুলি মূলত এক ধরনের কৃত্রিম মিশ্রভাষা — মৈথিলি ও বাংলার মিশ্রিত রূপ। বৈষ্ণব পদাবলি প্রথম সংকলন করেন বাবা আউল মনোহর দাস; ষোড়শ শতকের শেষার্ধে তিনি 'পদসমুদ্র' গ্রন্থে বৈষ্ণব পদাবলি সংকলিত করেন, এতে প্রায় ১৫ হাজার পদ আছে। বৈষ্ণব পদাবলি বৈষ্ণব সমাজে 'মহাজন পদাবলি' এবং পদকর্তাগণ 'মহাজন' নামে পরিচিত।"
+        },
+        {
+          "heading": "রস",
+          "body": "বৈষ্ণব পদাবলিতে ৫ ধরনের রসের সন্ধান পাওয়া যায় — শান্ত, সখ্য, দাস্য, বাৎসল্য, মধুর (বিদ্র: সাহিত্যে মোট রসের সংখ্যা ৯টি — শৃঙ্গার, বীর, রৌদ্র, বীভৎস, হাস্য, অদ্ভুত, করুণ, ভয়ানক, শান্ত)। শৃঙ্গার রসকে বৈষ্ণব পদাবলিতে মধুর রস বলা হয়।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_choitonno_jonmo",
+          "label": "শ্রীচৈতন্যদেবের জন্ম",
+          "value": "১৪৮৬ সালে নবদ্বীপে",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          },
+          "year": 1486
+        },
+        {
+          "id": "f_choitonno_mrittu",
+          "label": "শ্রীচৈতন্যদেবের মৃত্যু",
+          "value": "১৫৩৩ সালে পুরীতে, ৪৮ বছর বয়সে",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          },
+          "year": 1533
+        },
+        {
+          "id": "f_choitonno_dhormo",
+          "label": "শ্রীচৈতন্যদেব",
+          "value": "বৈষ্ণব ধর্মের প্রবর্তক",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_podaboli_bishoy",
+          "label": "বৈষ্ণব পদাবলির প্রধান অবলম্বন",
+          "value": "রাধাকৃষ্ণের প্রেমলীলা",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_podaboli_mohakobi",
+          "label": "বৈষ্ণব পদাবলির চার মহাকবি",
+          "value": "বিদ্যাপতি, চণ্ডীদাস, জ্ঞানদাস, গোবিন্দদাস",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_podaboli_adi_rochoyita",
+          "label": "বৈষ্ণব পদাবলির আদি রচয়িতা",
+          "value": "বিদ্যাপতি",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_podaboli_prothom_pod",
+          "label": "বাংলায় প্রথম পদ রচনা",
+          "value": "বড়ু চণ্ডীদাস",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_brajabuli",
+          "label": "ব্রজবুলি ভাষা",
+          "value": "মৈথিলি ও বাংলার মিশ্রিত কৃত্রিম মিশ্রভাষা, যাতে পদাবলি রচিত হয়েছে",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_podaboli_songkolon",
+          "label": "বৈষ্ণব পদাবলির প্রথম সংকলক",
+          "value": "বাবা আউল মনোহর দাস, গ্রন্থ 'পদসমুদ্র' (প্রায় ১৫ হাজার পদ)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_podaboli_mohajon",
+          "label": "বৈষ্ণব পদাবলির অপর নাম",
+          "value": "মহাজন পদাবলি; পদকর্তাগণ পরিচিত 'মহাজন' নামে",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_podaboli_ros",
+          "label": "বৈষ্ণব পদাবলিতে রসের সংখ্যা",
+          "value": "৫টি — শান্ত, সখ্য, দাস্য, বাৎসল্য, মধুর",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_podaboli_shrinngar_modhur",
+          "label": "শৃঙ্গার রসের বৈষ্ণব পদাবলিতে নাম",
+          "value": "মধুর রস",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        }
+      ],
+      "relatedPersonIds": [
+        "person_bidyapati",
+        "person_chandidas",
+        "person_gyandas",
+        "person_gobindadas",
+        "person_joydeb",
+        "person_shrichaitanyadeb"
+      ],
+      "relatedTopicIds": [
+        "topic_modhyo_yug"
+      ],
+      "tags": [
+        "বৈষ্ণব পদাবলি",
+        "মধ্যযুগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "person_bidyapati",
+      "type": "person",
+      "title": "বিদ্যাপতি",
+      "shortDescription": "মিথিলার কবি (মৈথিল কোকিল), বৈষ্ণব পদাবলির আদি কবি, উপাধি কবিকণ্ঠহার।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয় ও উপাধি",
+          "body": "বিদ্যাপতি মিথিলার কবি, 'মৈথিল কোকিল' ও 'অভিনব জয়দেব' নামে পরিচিত। তাঁর উপাধি কবিকণ্ঠহার — রাজা শিবসিংহ তাঁকে এই উপাধি দেন। রবীন্দ্রনাথ তাঁকে 'রাজকণ্ঠের মণিমালা' হিসেবে অভিহিত করেছেন। তিনি সংস্কৃত, মৈথিলি, অবহট্ঠ ভাষায় পদ রচনা করেছেন।"
+        },
+        {
+          "heading": "গ্রন্থসমূহ",
+          "body": "কীর্তিলতা — ঐতিহাসিক কাব্য (অপভ্রংশ অবহট্ঠ ভাষায়)। পুরুষপরীক্ষা — কথাসাহিত্য (সংস্কৃত ভাষায়)। গোরক্ষ বিজয় — নাটক (সংস্কৃত ভাষায়)। লিখনাবলী — অলঙ্কার শাস্ত্র বিষয়ক গ্রন্থ। দানবাক্যাবলী।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_bidyapati_upadhi",
+          "label": "বিদ্যাপতির উপাধি",
+          "value": "কবিকণ্ঠহার (রাজা শিবসিংহ প্রদত্ত)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_bidyapati_porichoy",
+          "label": "বিদ্যাপতির পরিচয়",
+          "value": "মিথিলার কবি, মৈথিল কোকিল/অভিনব জয়দেব নামে পরিচিত",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_bidyapati_rabindra",
+          "label": "রবীন্দ্রনাথ বিদ্যাপতিকে যেভাবে অভিহিত করেছেন",
+          "value": "রাজকণ্ঠের মণিমালা",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_bidyapati_bhasha",
+          "label": "বিদ্যাপতির পদ রচনার ভাষা",
+          "value": "সংস্কৃত, মৈথিলি, অবহট্ঠ",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_bidyapati_kirtilata",
+          "label": "বিদ্যাপতির গ্রন্থ কীর্তিলতা",
+          "value": "ঐতিহাসিক কাব্য, অপভ্রংশ অবহট্ঠ ভাষায়",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_bidyapati_purushporiksha",
+          "label": "বিদ্যাপতির গ্রন্থ পুরুষপরীক্ষা",
+          "value": "কথাসাহিত্য, সংস্কৃত ভাষায়",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_bidyapati_gorokkho",
+          "label": "বিদ্যাপতির গ্রন্থ গোরক্ষ বিজয়",
+          "value": "নাটক, সংস্কৃত ভাষায়",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedTopicIds": [
+        "topic_boishnob_podaboli"
+      ],
+      "tags": [
+        "বৈষ্ণব পদাবলি",
+        "মধ্যযুগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "person_chandidas",
+      "type": "person",
+      "title": "চণ্ডীদাস",
+      "shortDescription": "বৈষ্ণব পদাবলির শ্রেষ্ঠ কবি; বড়ু চণ্ডীদাস নামের সঙ্গে সম্পর্ক পণ্ডিতমহলে বিতর্কিত (Needs verification)।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয়",
+          "body": "বাংলা ভাষায় বৈষ্ণব পদাবলির আদি কবি এবং পদাবলির শ্রেষ্ঠ কবি চণ্ডীদাস। তিনি দুঃখের কবি, সত্যের কবি, বিরহের ও পূর্বরাগের শ্রেষ্ঠ কবি বলে পরিচিত। তাঁর একটি বিখ্যাত পদ: 'শুনহ মানুষ ভাই, সবার উপরে মানুষ সত্য তাহার উপরে নাই।' [সতর্কতা: PDF-এ শ্রীকৃষ্ণকীর্তনের রচয়িতা বড়ু চণ্ডীদাস ও পদাবলির শ্রেষ্ঠ কবি চণ্ডীদাসকে আলাদা প্রসঙ্গে উল্লেখ করা হয়েছে; দুজন একই ব্যক্তি কিনা তা পণ্ডিতমহলে বিতর্কিত বিষয়, এই অ্যাপে যাচাই-প্রয়োজন হিসেবে চিহ্নিত রাখা হলো।]"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_chandidas_porichoy",
+          "label": "চণ্ডীদাসের পরিচয়",
+          "value": "বাংলা ভাষায় বৈষ্ণব পদাবলির আদি কবি ও শ্রেষ্ঠ কবি",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_chandidas_dukher_kobi",
+          "label": "চণ্ডীদাসের পরিচিতি",
+          "value": "দুঃখের কবি, সত্যের কবি, বিরহের ও পূর্বরাগের শ্রেষ্ঠ কবি",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_chandidas_identity_dispute",
+          "label": "বড়ু চণ্ডীদাস ও পদাবলির চণ্ডীদাস অভিন্ন কিনা",
+          "value": "Needs verification — পণ্ডিতমহলে বিতর্কিত বিষয়, PDF থেকে নিশ্চিতভাবে নির্ধারণ করা যায়নি",
+          "source": {
+            "sourceType": "needsVerification"
+          }
+        }
+      ],
+      "relatedBookIds": [
+        "book_shrikrishna_kirtan"
+      ],
+      "relatedTopicIds": [
+        "topic_boishnob_podaboli"
+      ],
+      "tags": [
+        "বৈষ্ণব পদাবলি",
+        "শ্রীকৃষ্ণকীর্তন",
+        "মধ্যযুগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "person_gyandas",
+      "type": "person",
+      "title": "জ্ঞানদাস",
+      "shortDescription": "চণ্ডীদাসের ভাবশিষ্য, খেতুরীর বৈষ্ণব কবি সম্মেলনে যোগদানকারী পদকর্তা।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয়",
+          "body": "জ্ঞানদাস খেতুরীর বৈষ্ণব কবি সম্মেলনে যোগ দিয়েছিলেন। তিনি চণ্ডীদাসের ভাবশিষ্য ছিলেন। বিখ্যাত পদ: 'রূপ লাগি আঁখি ঝুরে গুণে মন ভোর, প্রতি অঙ্গ লাগি কান্দে প্রতি অঙ্গ মোর' এবং 'সুখের লাগিয়া এ ঘর বাঁধিনু অনলে পুড়িয়া গেল'।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_gyandas_kheturi",
+          "label": "জ্ঞানদাসের কবি সম্মেলন যোগদান",
+          "value": "খেতুরীর বৈষ্ণব কবি সম্মেলন",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_gyandas_guru",
+          "label": "জ্ঞানদাস যাঁর ভাবশিষ্য ছিলেন",
+          "value": "চণ্ডীদাস",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedTopicIds": [
+        "topic_boishnob_podaboli"
+      ],
+      "tags": [
+        "বৈষ্ণব পদাবলি",
+        "মধ্যযুগ"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "person_gobindadas",
+      "type": "person",
+      "title": "গোবিন্দদাস",
+      "shortDescription": "ষোড়শ শতকের কবি, বিদ্যাপতির ভাবশিষ্য, 'দ্বিতীয় বিদ্যাপতি' নামে পরিচিত।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয়",
+          "body": "গোবিন্দদাস ষোড়শ শতকের কবি ও রাজা লক্ষ্মণ সেনের সভাকবি ছিলেন। তিনি বিদ্যাপতির ভাবশিষ্য ছিলেন, তাঁকে দ্বিতীয় বিদ্যাপতি বলা হয়। ব্রজবুলি ভাষায় রচিত তাঁর কাব্য 'গীতগোবিন্দ'। সংস্কৃত ভাষায় তাঁর রচিত নাটক 'সঙ্গীত সাধক'।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_gobindadas_sova_kobi",
+          "label": "গোবিন্দদাসের পরিচয়",
+          "value": "ষোড়শ শতকের কবি, রাজা লক্ষ্মণ সেনের সভাকবি",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_gobindadas_dwitiyo_bidyapati",
+          "label": "গোবিন্দদাস যেভাবে পরিচিত",
+          "value": "দ্বিতীয় বিদ্যাপতি (বিদ্যাপতির ভাবশিষ্য)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_gobindadas_gitagobinda",
+          "label": "গোবিন্দদাসের ব্রজবুলি কাব্য",
+          "value": "গীতগোবিন্দ",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_gobindadas_natok",
+          "label": "গোবিন্দদাসের সংস্কৃত নাটক",
+          "value": "সঙ্গীত সাধক",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedTopicIds": [
+        "topic_boishnob_podaboli"
+      ],
+      "tags": [
+        "বৈষ্ণব পদাবলি",
+        "মধ্যযুগ"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "person_joydeb",
+      "type": "person",
+      "title": "জয়দেব",
+      "shortDescription": "বৈষ্ণব পদাবলির আদি কবি, লক্ষ্মণ সেনের সভাকবি; সংস্কৃত ভাষায় পদ রচনা করেছেন।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয়",
+          "body": "জয়দেব বৈষ্ণব পদাবলির আদি কবি এবং লক্ষ্মণ সেনের সভাকবি ছিলেন। জয়দেব বাঙালি কবি ছিলেন কিন্তু পদ রচনা করেছিলেন সংস্কৃত ভাষায় — এই জন্য তাঁকে পদাবলির সংস্কৃত ভাষার আদি কবি বলা হয়। তাঁর বিখ্যাত কাব্য 'গীতগোবিন্দম্', যা বৈষ্ণব পদাবলির প্রথম কাব্য।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_joydeb_porichoy",
+          "label": "জয়দেবের পরিচয়",
+          "value": "বৈষ্ণব পদাবলির আদি কবি, লক্ষ্মণ সেনের সভাকবি",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_joydeb_bhasha",
+          "label": "জয়দেব যে ভাষায় পদ রচনা করেন",
+          "value": "সংস্কৃত (যদিও বাঙালি কবি ছিলেন)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_joydeb_gitagobindam",
+          "label": "জয়দেবের কাব্য গীতগোবিন্দম্",
+          "value": "বৈষ্ণব পদাবলির প্রথম কাব্য",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        }
+      ],
+      "relatedTopicIds": [
+        "topic_boishnob_podaboli"
+      ],
+      "tags": [
+        "বৈষ্ণব পদাবলি",
+        "মধ্যযুগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "person_mukundaram_chakrabarti",
+      "type": "person",
+      "title": "মুকুন্দরাম চক্রবর্তী",
+      "shortDescription": "চণ্ডীমঙ্গল ধারার শ্রেষ্ঠ কবি, উপাধি 'কবিকঙ্কন', কাব্য 'শ্রী শ্রী চণ্ডীমঙ্গল'।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয়",
+          "body": "মুকুন্দরাম চক্রবর্তী চণ্ডীমঙ্গল ধারার শ্রেষ্ঠ কবি, দুঃখ বর্ণনার কবি বলা হয়। জমিদার রঘুনাথ রায় তাঁকে 'কবিকঙ্কন' উপাধি দেন। তাঁর রচিত কাব্যের নাম 'শ্রী শ্রী চণ্ডীমঙ্গল'।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_mukundaram_upadhi",
+          "label": "মুকুন্দরাম চক্রবর্তীর উপাধি",
+          "value": "কবিকঙ্কন (জমিদার রঘুনাথ রায় প্রদত্ত)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_mukundaram_kabbo",
+          "label": "মুকুন্দরাম চক্রবর্তীর কাব্য",
+          "value": "শ্রী শ্রী চণ্ডীমঙ্গল",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedBookIds": [
+        "book_chandimangal"
+      ],
+      "relatedTopicIds": [
+        "topic_mangalkabya"
+      ],
+      "tags": [
+        "চণ্ডীমঙ্গল",
+        "মঙ্গলকাব্য",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "person_bharatchandra",
+      "type": "person",
+      "title": "ভারতচন্দ্র রায়গুণাকর",
+      "shortDescription": "মঙ্গলকাব্যের সর্বশেষ কবি ও মধ্যযুগের শ্রেষ্ঠ কবি, বাংলা সাহিত্যের প্রথম 'নাগরিক কবি'।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয়",
+          "body": "ভারতচন্দ্র রায়গুণাকর মঙ্গলকাব্যের সর্বশেষ কবি এবং মধ্যযুগের শ্রেষ্ঠ কবি। তিনি বাংলা সাহিত্যের প্রথম 'নাগরিক কবি'। তিনি ছিলেন নবদ্বীপ বা নদীয়ার মহারাজ কৃষ্ণচন্দ্রের সভাকবি; রাজা কৃষ্ণচন্দ্র রায় তাঁকে 'গুণাকর' উপাধিতে ভূষিত করেন। ভারতচন্দ্র ১৭৬০ খ্রিস্টাব্দে মৃত্যুবরণ করেন, তাঁর মৃত্যুর সাথে সাথেই বাংলা সাহিত্যে মধ্যযুগের অবসান হয়।"
+        },
+        {
+          "heading": "অন্যান্য সাহিত্যকর্ম",
+          "body": "সত্য নারায়ণ পাঁচালী (কাব্য) [যার অংশ 'নাগাষ্টক' ও 'গঙ্গাষ্টক' নাটক], রসমঞ্জুরী, মানসিংহ ভবানন্দ উপাখ্যান, এবং চণ্ডীনাটক।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_bharatchandra_porichoy",
+          "label": "ভারতচন্দ্র রায়গুণাকরের পরিচয়",
+          "value": "মঙ্গলকাব্যের সর্বশেষ কবি, মধ্যযুগের শ্রেষ্ঠ কবি",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_bharatchandra_nagorik_kobi",
+          "label": "ভারতচন্দ্র",
+          "value": "বাংলা সাহিত্যের প্রথম নাগরিক কবি",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_bharatchandra_upadhi",
+          "label": "রাজা কৃষ্ণচন্দ্র রায় প্রদত্ত উপাধি",
+          "value": "গুণাকর",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        },
+        {
+          "id": "f_bharatchandra_mrittu",
+          "label": "ভারতচন্দ্রের মৃত্যু",
+          "value": "১৭৬০ খ্রিস্টাব্দ, যার সাথে সাথেই মধ্যযুগের অবসান হয়",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          },
+          "year": 1760
+        },
+        {
+          "id": "f_bharatchandra_grontho",
+          "label": "ভারতচন্দ্রের অন্যান্য সাহিত্যকর্ম",
+          "value": "সত্য নারায়ণ পাঁচালী, রসমঞ্জুরী, মানসিংহ ভবানন্দ উপাখ্যান, চণ্ডীনাটক",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedBookIds": [
+        "book_annadamangal"
+      ],
+      "relatedTopicIds": [
+        "topic_mangalkabya"
+      ],
+      "tags": [
+        "মঙ্গলকাব্য",
+        "অন্নদামঙ্গল",
+        "মধ্যযুগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "person_shrichaitanyadeb",
+      "type": "person",
+      "title": "শ্রীচৈতন্যদেব",
+      "shortDescription": "বৈষ্ণব ধর্মের প্রবর্তক, যাঁর প্রভাবে মধ্যযুগকে তিন উপভাগে ভাগ করা হয়।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয়",
+          "body": "শ্রীচৈতন্যদেব বৈষ্ণব ধর্মের প্রবর্তক ছিলেন। তিনি ১৪৮৬ সালে নবদ্বীপে জন্মগ্রহণ করেন এবং মাত্র ৪৮ বছর বয়সে ১৫৩৩ সালে পুরীতে দেহত্যাগ করেন। নিজে একটি পদও রচনা না করলেও বাংলা সাহিত্যে তাঁর নামে আলাদা যুগের সৃষ্টি হয়েছে (প্রাক-চৈতন্য/চৈতন্য/চৈতন্য-পরবর্তী যুগ)।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_scd_jonmo",
+          "label": "শ্রীচৈতন্যদেবের জন্ম",
+          "value": "১৪৮৬, নবদ্বীপ",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          },
+          "year": 1486
+        },
+        {
+          "id": "f_scd_mrittu",
+          "label": "শ্রীচৈতন্যদেবের মৃত্যু",
+          "value": "১৫৩৩, পুরী (৪৮ বছর বয়সে)",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          },
+          "year": 1533
+        },
+        {
+          "id": "f_scd_dhormo_provorton",
+          "label": "শ্রীচৈতন্যদেব",
+          "value": "বৈষ্ণব ধর্মের প্রবর্তক",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedTopicIds": [
+        "topic_boishnob_podaboli",
+        "topic_modhyo_yug"
+      ],
+      "tags": [
+        "বৈষ্ণব ধর্ম",
+        "মধ্যযুগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "person_horoprosad_shastri",
+      "type": "person",
+      "title": "হরপ্রসাদ শাস্ত্রী",
+      "shortDescription": "১৯০৭ সালে নেপালের রয়েল লাইব্রেরি থেকে চর্যাপদ আবিষ্কারক, উপাধি মহামহোপাধ্যায়।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয়",
+          "body": "মহামহোপাধ্যায় হরপ্রসাদ শাস্ত্রী ১৯০৭ সালে নেপালের রয়েল লাইব্রেরি থেকে একসঙ্গে ৪টি গ্রন্থ আবিষ্কার করেন, যার একটি চর্যাপদ। তিনি চর্যাপদের ভাষাকে সান্ধ্য ভাষা/সন্ধ্যা ভাষা/আলো-আঁধারের ভাষা বলেছেন। তাঁর উপাধি মহামহোপাধ্যায়।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_horoprosad_avishkar",
+          "label": "হরপ্রসাদ শাস্ত্রীর আবিষ্কার",
+          "value": "চর্যাপদসহ ৪টি গ্রন্থ, নেপালের রয়েল লাইব্রেরি থেকে, ১৯০৭ সালে",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          },
+          "year": 1907
+        },
+        {
+          "id": "f_horoprosad_upadhi",
+          "label": "হরপ্রসাদ শাস্ত্রীর উপাধি",
+          "value": "মহামহোপাধ্যায়",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        },
+        {
+          "id": "f_horoprosad_bhasha_naam",
+          "label": "হরপ্রসাদ শাস্ত্রী প্রদত্ত চর্যাপদের ভাষার নাম",
+          "value": "সান্ধ্য ভাষা/সন্ধ্যা ভাষা/আলো-আঁধারের ভাষা",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          }
+        }
+      ],
+      "relatedBookIds": [
+        "book_choryapod"
+      ],
+      "relatedTopicIds": [
+        "topic_prachin_yug"
+      ],
+      "tags": [
+        "চর্যাপদ",
+        "প্রাচীন যুগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "person_sunitikumar_chattopadhyay",
+      "type": "person",
+      "title": "সুনীতিকুমার চট্টোপাধ্যায়",
+      "shortDescription": "১৯২৬ সালে ODBL গ্রন্থে চর্যাপদের ভাষাবিষয়ক গবেষণা করে চর্যাপদকে বাংলা ভাষার আদি নিদর্শন প্রমাণকারী।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয়",
+          "body": "ড. সুনীতিকুমার চট্টোপাধ্যায় ১৯২৬ সালে 'The Origin and Development of Bengali Language (ODBL)' গ্রন্থে চর্যাপদের ভাষাবিষয়ক গবেষণা করে প্রমাণ করেন চর্যাপদ বাংলা ভাষার আদি নিদর্শন।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_sunitikumar_odbl",
+          "label": "সুনীতিকুমার চট্টোপাধ্যায়ের গ্রন্থ ও গবেষণা",
+          "value": "ODBL (The Origin and Development of Bengali Language), ১৯২৬ — চর্যাপদ বাংলা ভাষার আদি নিদর্শন প্রমাণ",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          },
+          "year": 1926
+        }
+      ],
+      "relatedBookIds": [
+        "book_choryapod"
+      ],
+      "relatedTopicIds": [
+        "topic_prachin_yug"
+      ],
+      "tags": [
+        "চর্যাপদ",
+        "প্রাচীন যুগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "person_muhammad_shahidullah",
+      "type": "person",
+      "title": "ড. মুহম্মদ শহীদুল্লাহ",
+      "shortDescription": "১৯২৭ সালে 'Buddhist Mystic Songs' গ্রন্থে চর্যাপদের ধর্মতত্ত্ব বিষয়ক গবেষণা করে চর্যাপদকে বাংলা সাহিত্যের আদি নিদর্শন প্রমাণকারী।",
+      "detailedSections": [
+        {
+          "heading": "পরিচয়",
+          "body": "শ্রেষ্ঠ ভাষাবিজ্ঞানী ড. মুহম্মদ শহীদুল্লাহ ১৯২৭ সালে 'Buddhist Mystic Songs' গ্রন্থে চর্যাপদের ধর্মতত্ত্ব বিষয়ক গবেষণা করে প্রমাণ করেন যে চর্যাপদ বাংলা সাহিত্যের আদি নিদর্শন। তিনি চর্যাপদের ভাষাকে বঙ্গকামরূপী ভাষা বলেছেন। তাঁর মতে প্রাচীন যুগ ৬৫০-১২০০ খ্রিস্টাব্দ।"
+        }
+      ],
+      "facts": [
+        {
+          "id": "f_shahidullah_bms",
+          "label": "মুহম্মদ শহীদুল্লাহর গ্রন্থ ও গবেষণা",
+          "value": "Buddhist Mystic Songs, ১৯২৭ — চর্যাপদ বাংলা সাহিত্যের আদি নিদর্শন প্রমাণ",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": true
+          },
+          "year": 1927
+        },
+        {
+          "id": "f_shahidullah_bhasha_naam",
+          "label": "শহীদুল্লাহ প্রদত্ত চর্যাপদের ভাষার নাম",
+          "value": "বঙ্গকামরূপী ভাষা",
+          "source": {
+            "sourceType": "pdf",
+            "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+            "examImportant": false
+          }
+        }
+      ],
+      "relatedBookIds": [
+        "book_choryapod"
+      ],
+      "relatedTopicIds": [
+        "topic_prachin_yug"
+      ],
+      "tags": [
+        "চর্যাপদ",
+        "প্রাচীন যুগ",
+        "বিসিএস"
+      ],
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    }
+  ],
+  "timelineEntries": [
+    {
+      "id": "tl_choryapod_avishkar_kotha",
+      "year": 1882,
+      "title": "চর্যাপদ আবিষ্কার-সংক্রান্ত তথ্য প্রকাশ",
+      "shortInfo": "রাজা রাজেন্দ্রলাল মিত্র নেপালে বৌদ্ধতান্ত্রিক সাহিত্যের কথা প্রকাশ করেন।",
+      "detailedInfo": "'Sanskrit Buddhist Literature in Nepal' গ্রন্থে এই তথ্য প্রকাশিত হয়।",
+      "relatedType": "event",
+      "contentItemId": "book_choryapod",
+      "era": "medieval",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "tl_choryapod_avishkar",
+      "year": 1907,
+      "title": "চর্যাপদ আবিষ্কার",
+      "shortInfo": "হরপ্রসাদ শাস্ত্রী নেপালের রয়েল লাইব্রেরি থেকে চর্যাপদসহ ৪টি গ্রন্থ আবিষ্কার করেন।",
+      "detailedInfo": "বাকি ৩টি গ্রন্থ অপভ্রংশ ভাষায় রচিত — সরহপাদের দোঁহা, কৃষ্ণপাদের দোঁহা, ডাকার্ণব।",
+      "relatedType": "event",
+      "contentItemId": "book_choryapod",
+      "relatedPersonIds": [
+        "person_horoprosad_shastri"
+      ],
+      "era": "medieval",
+      "examImportant": true,
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true
+      }
+    },
+    {
+      "id": "tl_choryapod_skk_puthi",
+      "year": 1909,
+      "title": "শ্রীকৃষ্ণকীর্তনের পুঁথি আবিষ্কার",
+      "shortInfo": "বসন্তরঞ্জন রায় বিদ্বদ্বল্লভ কাকিল্যা গ্রামে পুঁথিটি খুঁজে পান।",
+      "detailedInfo": "বাঁকুড়া জেলার বিষ্ণুপুর শহরের নিকটবর্তী কাকিল্যা গ্রামে দেবেন্দ্রনাথ মুখোপাধ্যায়ের বাড়ির গোয়ালঘরের মাচা থেকে পুঁথিটি পাওয়া যায়।",
+      "relatedType": "event",
+      "contentItemId": "book_shrikrishna_kirtan",
+      "era": "medieval",
+      "examImportant": true,
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true
+      }
+    },
+    {
+      "id": "tl_choryapod_prokash",
+      "year": 1916,
+      "title": "চর্যাপদ প্রকাশ",
+      "shortInfo": "কলিকাতার বঙ্গীয় সাহিত্য পরিষদ থেকে চর্যাপদসহ ৪টি গ্রন্থ প্রকাশিত হয়।",
+      "detailedInfo": "এই সময় ৪টি গ্রন্থের একত্র নাম দেওয়া হয় 'হাজার বছরের পুরোনো বাঙ্গালা ভাষার বৌদ্ধ গান ও দোহা'।",
+      "relatedType": "event",
+      "contentItemId": "book_choryapod",
+      "era": "medieval",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "tl_skk_shompadona",
+      "year": 1916,
+      "title": "শ্রীকৃষ্ণকীর্তন নামে সম্পাদনা প্রকাশ",
+      "shortInfo": "বসন্তরঞ্জন রায় বিদ্বদ্বল্লভ বঙ্গীয় সাহিত্য পরিষদ থেকে সম্পাদনা করেন।",
+      "detailedInfo": "১৩২৩ বঙ্গাব্দে সম্পাদিত সংস্করণ প্রকাশিত হয়।",
+      "relatedType": "event",
+      "contentItemId": "book_shrikrishna_kirtan",
+      "era": "medieval",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "tl_odbl",
+      "year": 1926,
+      "title": "চর্যাপদ বাংলা ভাষার আদি নিদর্শন প্রমাণ",
+      "shortInfo": "সুনীতিকুমার চট্টোপাধ্যায় ODBL গ্রন্থে ভাষাগত গবেষণা প্রকাশ করেন।",
+      "detailedInfo": "The Origin and Development of Bengali Language গ্রন্থে চর্যাপদের ভাষা বিশ্লেষণ করে বাংলা ভাষার আদি নিদর্শন হিসেবে প্রমাণ দেওয়া হয়।",
+      "relatedType": "event",
+      "contentItemId": "book_choryapod",
+      "relatedPersonIds": [
+        "person_sunitikumar_chattopadhyay"
+      ],
+      "era": "medieval",
+      "examImportant": true,
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true
+      }
+    },
+    {
+      "id": "tl_bms",
+      "year": 1927,
+      "title": "চর্যাপদ বাংলা সাহিত্যের আদি নিদর্শন প্রমাণ",
+      "shortInfo": "মুহম্মদ শহীদুল্লাহ 'Buddhist Mystic Songs' গ্রন্থে ধর্মতত্ত্ব বিষয়ক গবেষণা প্রকাশ করেন।",
+      "detailedInfo": "এই গ্রন্থে চর্যাপদের ধর্মতত্ত্ব বিশ্লেষণ করে বাংলা সাহিত্যের আদি নিদর্শন হিসেবে প্রমাণ দেওয়া হয়।",
+      "relatedType": "event",
+      "contentItemId": "book_choryapod",
+      "relatedPersonIds": [
+        "person_muhammad_shahidullah"
+      ],
+      "era": "medieval",
+      "examImportant": true,
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true
+      }
+    },
+    {
+      "id": "tl_scd_jonmo",
+      "year": 1486,
+      "title": "শ্রীচৈতন্যদেবের জন্ম",
+      "shortInfo": "নবদ্বীপে শ্রীচৈতন্যদেবের জন্ম।",
+      "detailedInfo": "বৈষ্ণব ধর্মের প্রবর্তক শ্রীচৈতন্যদেবের জন্মের মধ্য দিয়ে বৈষ্ণব আন্দোলনের সূচনা হয়।",
+      "relatedType": "person",
+      "contentItemId": "person_shrichaitanyadeb",
+      "era": "medieval",
+      "examImportant": true,
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true
+      }
+    },
+    {
+      "id": "tl_scd_mrittu",
+      "year": 1533,
+      "title": "শ্রীচৈতন্যদেবের মৃত্যু",
+      "shortInfo": "পুরীতে ৪৮ বছর বয়সে শ্রীচৈতন্যদেবের দেহত্যাগ।",
+      "detailedInfo": "তাঁর প্রভাবে বাংলা সাহিত্যে চৈতন্য-পূর্ব, চৈতন্য ও চৈতন্য-পরবর্তী যুগ বিভাজন করা হয়েছে।",
+      "relatedType": "person",
+      "contentItemId": "person_shrichaitanyadeb",
+      "era": "medieval",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": false
+      }
+    },
+    {
+      "id": "tl_bharatchandra_mrittu",
+      "year": 1760,
+      "title": "ভারতচন্দ্র রায়গুণাকরের মৃত্যু ও মধ্যযুগের অবসান",
+      "shortInfo": "মঙ্গলকাব্যের সর্বশেষ ও মধ্যযুগের শ্রেষ্ঠ কবি ভারতচন্দ্রের মৃত্যু।",
+      "detailedInfo": "তাঁর মৃত্যুর সাথে সাথেই বাংলা সাহিত্যে মধ্যযুগের অবসান হয় এবং আধুনিক যুগের সূচনার পথ তৈরি হয়।",
+      "relatedType": "person",
+      "contentItemId": "person_bharatchandra",
+      "era": "medieval",
+      "examImportant": true,
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true
+      }
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "mcq_001",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "'চর্যাপদ' বাংলা সাহিত্যের আদি নিদর্শন প্রমাণ করেন কে?",
+      "options": [
+        {
+          "id": "a",
+          "text": "হরপ্রসাদ"
+        },
+        {
+          "id": "b",
+          "text": "ড. সুনীতিকুমার চট্টোপাধ্যায়"
+        },
+        {
+          "id": "c",
+          "text": "ড. মুহম্মদ শহীদুল্লাহ"
+        },
+        {
+          "id": "d",
+          "text": "সুকুমার সেন"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "ড. মুহম্মদ শহীদুল্লাহ ১৯২৭ সালে Buddhist Mystic Songs গ্রন্থে চর্যাপদের ধর্মতত্ত্ব বিষয়ক গবেষণা করে প্রমাণ করেন যে চর্যাপদ বাংলা সাহিত্যের আদি নিদর্শন।",
+      "contentItemId": "book_choryapod",
+      "topicLabel": "৪৮তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৪৮তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_002",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "চর্যাপদের কবিরা ছিলেন—",
+      "options": [
+        {
+          "id": "a",
+          "text": "মহাঘানী বৌদ্ধ"
+        },
+        {
+          "id": "b",
+          "text": "বজ্রঘানী বৌদ্ধ"
+        },
+        {
+          "id": "c",
+          "text": "বাউল"
+        },
+        {
+          "id": "d",
+          "text": "সহজঘানী বৌদ্ধ"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "চর্যাপদের কবিরা ছিলেন সহজঘানী বৌদ্ধ (বৌদ্ধ সহজিয়া ধর্মের অনুসারী)।",
+      "contentItemId": "book_choryapod",
+      "topicLabel": "৪৬তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৪৬তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_003",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "চর্যাপদের তিব্বতি অনুবাদ প্রকাশ করেন কে?",
+      "options": [
+        {
+          "id": "a",
+          "text": "প্রবোধচন্দ্র বাগচী"
+        },
+        {
+          "id": "b",
+          "text": "যতীন্দ্র মোহন বাগচী"
+        },
+        {
+          "id": "c",
+          "text": "প্রফুল্ল মোহন বাগচী"
+        },
+        {
+          "id": "d",
+          "text": "প্রণয়ভূষণ বাগচী"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "ড. প্রবোধচন্দ্র বাগচী চর্যাপদের তিব্বতি অনুবাদ সংগ্রহ/আবিষ্কার করে ১৯৩৮ সালে প্রকাশ করেন।",
+      "contentItemId": "book_choryapod",
+      "topicLabel": "৪৫তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৪৫তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_004",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "'চর্যাপদে'র প্রাপ্তিস্থান কোথায়?",
+      "options": [
+        {
+          "id": "a",
+          "text": "বাংলাদেশ"
+        },
+        {
+          "id": "b",
+          "text": "নেপাল"
+        },
+        {
+          "id": "c",
+          "text": "উড়িষ্যা"
+        },
+        {
+          "id": "d",
+          "text": "ভুটান"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "হরপ্রসাদ শাস্ত্রী ১৯০৭ সালে নেপালের রয়েল লাইব্রেরি থেকে চর্যাপদ আবিষ্কার করেন।",
+      "contentItemId": "book_choryapod",
+      "topicLabel": "৪৩তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৪৩তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_005",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "চর্যাপদের টীকাকারের নাম কী?",
+      "options": [
+        {
+          "id": "a",
+          "text": "মীননাথ"
+        },
+        {
+          "id": "b",
+          "text": "প্রবোধচন্দ্র বাগচী"
+        },
+        {
+          "id": "c",
+          "text": "হরপ্রসাদ শাস্ত্রী"
+        },
+        {
+          "id": "d",
+          "text": "মুনিদত্ত"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "মুনিদত্ত সংস্কৃত ভাষায় চর্যাপদের টীকা লেখেন।",
+      "contentItemId": "book_choryapod",
+      "topicLabel": "৪১তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৪১তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_006",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "চর্যাপদে কোন ধর্মমতের কথা আছে?",
+      "options": [
+        {
+          "id": "a",
+          "text": "খ্রিস্টধর্ম"
+        },
+        {
+          "id": "b",
+          "text": "প্যাগনিজম"
+        },
+        {
+          "id": "c",
+          "text": "জৈনধর্ম"
+        },
+        {
+          "id": "d",
+          "text": "বৌদ্ধধর্ম"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "চর্যাপদ বৌদ্ধ সহজিয়া ধর্মের সাধনতত্ত্ব বহন করে।",
+      "contentItemId": "book_choryapod",
+      "topicLabel": "৪০তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৪০তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_007",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "উল্লিখিতদের মধ্যে কে প্রাচীন যুগের কবি নন?",
+      "options": [
+        {
+          "id": "a",
+          "text": "কাহ্নপাদ"
+        },
+        {
+          "id": "b",
+          "text": "লুইপাদ"
+        },
+        {
+          "id": "c",
+          "text": "শান্তিপাদ"
+        },
+        {
+          "id": "d",
+          "text": "রমনীপাদ"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "কাহ্নপাদ, লুইপাদ ও শান্তিপাদ চর্যাপদের (প্রাচীন যুগের) কবি; রমনীপাদ এই তালিকার অন্তর্ভুক্ত নন।",
+      "contentItemId": "topic_prachin_yug",
+      "topicLabel": "৪০তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৪০তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_008",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "'সন্ধ্যাভাষা' কোন সাহিত্যকর্মের সঙ্গে যুক্ত?",
+      "options": [
+        {
+          "id": "a",
+          "text": "চর্যাপদ"
+        },
+        {
+          "id": "b",
+          "text": "পদাবলি"
+        },
+        {
+          "id": "c",
+          "text": "মঙ্গলকাব্য"
+        },
+        {
+          "id": "d",
+          "text": "রোমান্সকাব্য"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "হরপ্রসাদ শাস্ত্রী চর্যাপদের ভাষাকে সন্ধ্যাভাষা/সান্ধ্য ভাষা বলেছেন।",
+      "contentItemId": "book_choryapod",
+      "topicLabel": "৩৮তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৩৮তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_009",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "ড. মুহম্মদ শহীদুল্লাহ্ সম্পাদিত চর্যাপদ বিষয়ক গ্রন্থের নাম কী?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Buddhist Mystic Songs"
+        },
+        {
+          "id": "b",
+          "text": "চর্যাগীতিকা"
+        },
+        {
+          "id": "c",
+          "text": "চর্যাগীতিকোষ"
+        },
+        {
+          "id": "d",
+          "text": "হাজার বছরের পুরাণ বাংলা ভাষায় বৌদ্দগান ও দোহা"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "ড. মুহম্মদ শহীদুল্লাহ্ 1927 সালে 'Buddhist Mystic Songs' গ্রন্থে চর্যাপদ সম্পাদনা করেন।",
+      "contentItemId": "book_choryapod",
+      "topicLabel": "৩৭তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৩৭তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_010",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "'শ্রীকৃষ্ণকীর্তন কাব্য' কোথা থেকে উদ্ধার করা হয়েছিল?",
+      "options": [
+        {
+          "id": "a",
+          "text": "নেপালের রাজদরবার থেকে"
+        },
+        {
+          "id": "b",
+          "text": "গোয়ালঘর থেকে"
+        },
+        {
+          "id": "c",
+          "text": "পাঠশালা থেকে"
+        },
+        {
+          "id": "d",
+          "text": "কান্তজীর মন্দির থেকে"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "বসন্তরঞ্জন রায় বিদ্বদ্বল্লভ কাকিল্যা গ্রামে দেবেন্দ্রনাথ মুখোপাধ্যায়ের বাড়ির গোয়ালঘরের মাচা থেকে পুঁথিটি উদ্ধার করেন।",
+      "contentItemId": "book_shrikrishna_kirtan",
+      "topicLabel": "৪৪তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৪৪তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_011",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "বাংলা সাহিত্যে অন্ধকার যুগ বলতে বোঝায়—",
+      "options": [
+        {
+          "id": "a",
+          "text": "১১৯৯-১২৫০ পর্যন্ত"
+        },
+        {
+          "id": "b",
+          "text": "১২০১-১৩৫০ পর্যন্ত"
+        },
+        {
+          "id": "c",
+          "text": "১২৫০-১৩৫০ পর্যন্ত"
+        },
+        {
+          "id": "d",
+          "text": "১২৫০-১৪৫০ পর্যন্ত"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "অন্ধকার যুগ ১২০১-১৩৫০ সাল সময়কালকে বোঝায়।",
+      "contentItemId": "topic_ondhokar_yug",
+      "topicLabel": "৩৪তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৩৪তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_012",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "'শূন্যপুরাণ' রচনা করেছেন—",
+      "options": [
+        {
+          "id": "a",
+          "text": "রামাই পণ্ডিত"
+        },
+        {
+          "id": "b",
+          "text": "শ্রীকর নন্দী"
+        },
+        {
+          "id": "c",
+          "text": "বিজয় গুপ্ত"
+        },
+        {
+          "id": "d",
+          "text": "লোচন দাস"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "রামাই পণ্ডিত শূন্যপুরাণের রচয়িতা।",
+      "contentItemId": "topic_ondhokar_yug",
+      "topicLabel": "৩২তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৩২তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_013",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "জীবনী সাহিত্যের ধারা গড়ে ওঠে কাকে কেন্দ্র করে?",
+      "options": [
+        {
+          "id": "a",
+          "text": "শ্রীচৈতন্যদেব"
+        },
+        {
+          "id": "b",
+          "text": "কাহ্নপা"
+        },
+        {
+          "id": "c",
+          "text": "বিদ্যাপতি"
+        },
+        {
+          "id": "d",
+          "text": "রামকৃষ্ণ পরমহংসদেব"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "শ্রীচৈতন্যদেবকে কেন্দ্র করে বৈষ্ণব জীবনী সাহিত্যের ধারা গড়ে ওঠে।",
+      "contentItemId": "person_shrichaitanyadeb",
+      "topicLabel": "৪১তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৪১তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_014",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "জীবনীকাব্য রচনার জন্য বিখ্যাত:",
+      "options": [
+        {
+          "id": "a",
+          "text": "ফকির গরীবুল্লাহ"
+        },
+        {
+          "id": "b",
+          "text": "নরহরি চক্রবর্তী"
+        },
+        {
+          "id": "c",
+          "text": "বিপ্রদাস পিপিলাই"
+        },
+        {
+          "id": "d",
+          "text": "বৃন্দাবন দাস"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "বৃন্দাবন দাস চৈতন্যজীবনীকাব্য রচনার জন্য বিখ্যাত।",
+      "contentItemId": "topic_boishnob_podaboli",
+      "topicLabel": "৪০তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৪০তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_015",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "বৈষ্ণব পদাবলির সঙ্গে কোন ভাষা সম্পর্কিত?",
+      "options": [
+        {
+          "id": "a",
+          "text": "সন্ধ্যাভাষা"
+        },
+        {
+          "id": "b",
+          "text": "অধিভাষা"
+        },
+        {
+          "id": "c",
+          "text": "ব্রজবুলি"
+        },
+        {
+          "id": "d",
+          "text": "সংস্কৃত ভাষা"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "বৈষ্ণব পদাবলি ব্রজবুলি ও বাংলা ভাষায় রচিত।",
+      "contentItemId": "topic_boishnob_podaboli",
+      "topicLabel": "৪০তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৪০তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_016",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "বিদ্যাপতি কোথাকার কবি ছিলেন?",
+      "options": [
+        {
+          "id": "a",
+          "text": "নবদ্বীপের"
+        },
+        {
+          "id": "b",
+          "text": "মিথিলার"
+        },
+        {
+          "id": "c",
+          "text": "বৃন্দাবনের"
+        },
+        {
+          "id": "d",
+          "text": "বর্ধমানের"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "বিদ্যাপতি মিথিলার কবি, মৈথিল কোকিল নামে পরিচিত।",
+      "contentItemId": "person_bidyapati",
+      "topicLabel": "৩৮তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৩৮তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_017",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "শৃঙ্গার রসকে বৈষ্ণব পদাবলিতে কী রস বলে?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ভাবরস"
+        },
+        {
+          "id": "b",
+          "text": "মধুর রস"
+        },
+        {
+          "id": "c",
+          "text": "প্রেমরস"
+        },
+        {
+          "id": "d",
+          "text": "লীলারস"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "বৈষ্ণব পদাবলিতে শৃঙ্গার রসকে মধুর রস বলা হয়।",
+      "contentItemId": "topic_boishnob_podaboli",
+      "topicLabel": "৩৭তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৩৭তম বিসিএস"
+      }
+    },
+    {
+      "id": "mcq_018",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "'পুরুষপরীক্ষা' গ্রন্থের রচয়িতা কে?",
+      "options": [
+        {
+          "id": "a",
+          "text": "জয়দেব"
+        },
+        {
+          "id": "b",
+          "text": "বিদ্যাপতি"
+        },
+        {
+          "id": "c",
+          "text": "জ্ঞানদাস"
+        },
+        {
+          "id": "d",
+          "text": "গোবিন্দ দাস"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "পুরুষপরীক্ষা বিদ্যাপতির রচিত সংস্কৃত ভাষার কথাসাহিত্য।",
+      "contentItemId": "person_bidyapati",
+      "topicLabel": "উত্তরণ একাডেমি Poll Q-03",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "উত্তরণ একাডেমি Poll Q-03"
+      }
+    },
+    {
+      "id": "mcq_019",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "মনসামঙ্গল কাব্যের শ্রেষ্ঠ কবি—",
+      "options": [
+        {
+          "id": "a",
+          "text": "কানা হরিদত্ত"
+        },
+        {
+          "id": "b",
+          "text": "নারায়ণ দেব"
+        },
+        {
+          "id": "c",
+          "text": "বিজয়গুপ্ত"
+        },
+        {
+          "id": "d",
+          "text": "বিপ্রদাস পিপিলাই"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "বিজয় গুপ্ত মনসামঙ্গল ধারার শ্রেষ্ঠ কবি ও প্রথম রচয়িতা।",
+      "contentItemId": "book_manasamangal",
+      "topicLabel": "উত্তরণ একাডেমি Poll Q-02",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "উত্তরণ একাডেমি Poll Q-02"
+      }
+    },
+    {
+      "id": "mcq_020",
+      "type": "standard",
+      "difficulty": "medium",
+      "question": "'গীতগোবিন্দ' কাব্যের রচয়িতা জয়দেব কার সভাকবি ছিলেন?",
+      "options": [
+        {
+          "id": "a",
+          "text": "শশাঙ্কদেবের"
+        },
+        {
+          "id": "b",
+          "text": "লক্ষ্মণ সেনের"
+        },
+        {
+          "id": "c",
+          "text": "যশোবর্মনের"
+        },
+        {
+          "id": "d",
+          "text": "হর্ষবর্ধনের"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "জয়দেব লক্ষ্মণ সেনের সভাকবি ছিলেন।",
+      "contentItemId": "person_joydeb",
+      "topicLabel": "৪৫তম বিসিএস",
+      "source": {
+        "sourceType": "pdf",
+        "sourceDocument": "Bangla Sahitya Lecture-01 (Uttoron Academy, BCS Pioneer Batch)",
+        "examImportant": true,
+        "sourceLocation": "৪৫তম বিসিএস"
+      }
+    }
+  ]
+}

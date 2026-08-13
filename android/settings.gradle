@@ -1,0 +1,34 @@
+pluginManagement {
+    def flutterSdkPath = {
+        def properties = new Properties()
+        file("local.properties").withInputStream { properties.load(it) }
+        def flutterSdkPath = properties.getProperty("flutter.sdk")
+        assert flutterSdkPath != null, "flutter.sdk not set in local.properties"
+        return flutterSdkPath
+    }()
+
+    includeBuild("$flutterSdkPath/packages/flutter_tools/gradle")
+
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
+plugins {
+    id "dev.flutter.flutter-plugin-loader" version "1.0.0"
+    // AGP 8.12.0 is the latest 8.x (pre-AGP-9/new-DSL) release, and requires
+    // Gradle 8.13-8.14 — matches the 8.14 wrapper above. Deliberately staying
+    // on the 8.x line rather than AGP 9.x: AGP 9 introduces the new
+    // `android.newDsl` build-file DSL and drops support for applying the
+    // Kotlin Gradle Plugin the classic way, which this project (and several
+    // of its plugins) aren't set up for yet. See android/gradle.properties
+    // for the explicit android.newDsl=false opt-out.
+    id "com.android.application" version "8.12.0" apply false
+    // Kotlin 1.9.24 triggers Flutter's "Kotlin version will soon be dropped"
+    // warning; 2.1.20 is the minimum currently-supported stable release.
+    id "org.jetbrains.kotlin.android" version "2.2.20" apply false
+}
+
+include ":app"

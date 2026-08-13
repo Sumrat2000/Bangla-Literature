@@ -1,0 +1,9 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:bangla_sahitya_app/data/providers.dart",
+    "package:bangla_sahitya_app/features/practice/presentation/screens/mcq_practice_screen.dart"
+  ]
+}

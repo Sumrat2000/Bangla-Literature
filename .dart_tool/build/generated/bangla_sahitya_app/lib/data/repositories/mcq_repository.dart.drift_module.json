@@ -1,0 +1,8 @@
+{
+  "elements": {},
+  "imports": [
+    "package:bangla_sahitya_app/data/database/app_database.dart",
+    "package:bangla_sahitya_app/data/models/mcq.dart",
+    "package:bangla_sahitya_app/data/models/source_info.dart"
+  ]
+}

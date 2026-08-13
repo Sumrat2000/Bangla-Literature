@@ -1,0 +1,97 @@
+{
+  "elements": {
+    "AppDatabase": {
+      "id": {
+        "library_uri": "package:bangla_sahitya_app/data/database/app_database.dart",
+        "name": "AppDatabase"
+      },
+      "declaration": {
+        "source_uri": "package:bangla_sahitya_app/data/database/app_database.dart",
+        "offset": 453,
+        "name": "AppDatabase"
+      },
+      "references": [
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "content_items"
+        },
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "content_sections"
+        },
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "content_facts"
+        },
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "timeline_entries_table"
+        },
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "flashcards"
+        },
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "mcqs"
+        },
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "topic_progress"
+        },
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "exam_attempts"
+        }
+      ],
+      "type": "database",
+      "tables": [
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "content_items"
+        },
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "content_sections"
+        },
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "content_facts"
+        },
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "timeline_entries_table"
+        },
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "flashcards"
+        },
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "mcqs"
+        },
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "topic_progress"
+        },
+        {
+          "library_uri": "package:bangla_sahitya_app/data/database/tables/content_tables.dart",
+          "name": "exam_attempts"
+        }
+      ],
+      "views": [],
+      "includes": [],
+      "queries": [],
+      "schema_version": 1,
+      "daos": [],
+      "has_constructor_arg": false
+    }
+  },
+  "imports": [
+    "package:drift/drift.dart",
+    "package:drift/native.dart",
+    "package:path/path.dart",
+    "package:path_provider/path_provider.dart",
+    "package:bangla_sahitya_app/data/database/tables/content_tables.dart"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:bangla_sahitya_app/features/home/presentation/screens/home_screen.dart",
+    "package:bangla_sahitya_app/features/timeline/presentation/screens/timeline_screen.dart",
+    "package:bangla_sahitya_app/features/study/presentation/screens/study_screen.dart",
+    "package:bangla_sahitya_app/features/practice/presentation/screens/practice_screen.dart",
+    "package:bangla_sahitya_app/features/progress/presentation/screens/progress_screen.dart",
+    "package:bangla_sahitya_app/features/search/presentation/screens/search_screen.dart"
+  ]
+}

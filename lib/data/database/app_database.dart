@@ -23,7 +23,7 @@ class AppDatabase extends _$AppDatabase {
   AppDatabase() : super(_openConnection());
 
   @override
-  int get schemaVersion => 1;
+  int get schemaVersion => 2;
 
   // Migration strategy note (spec section 21/31): when a new PDF is
   // ingested we only ever INSERT/UPDATE rows via the repositories —
@@ -34,9 +34,11 @@ class AppDatabase extends _$AppDatabase {
           await m.createAll();
         },
         onUpgrade: (m, from, to) async {
-          // Add stepwise `if (from < N) { await m.addColumn(...) }`
-          // blocks here as the schema evolves. Never drop PDF-sourced
-          // data as part of a migration.
+          if (from < 2) {
+            // Adds TopicProgress.isRead — feeds the "পড়া হয়েছে" badge on
+            // the Study screen (didn't exist in the very first schema).
+            await m.addColumn(topicProgress, topicProgress.isRead);
+          }
         },
       );
 }

@@ -38,6 +38,9 @@ class TopicDetailScreen extends ConsumerWidget {
           final item = await repo.getById(contentItemId);
           final sections = await repo.getSections(contentItemId);
           final facts = await repo.getFacts(contentItemId);
+          // Fire-and-forget: marks this topic read for the Study screen's
+          // real progress bars. Not awaited — shouldn't block rendering.
+          ref.read(progressRepositoryProvider).markTopicRead(contentItemId);
           return _TopicDetailData(item: item, sections: sections, facts: facts);
         }(),
         builder: (context, snapshot) {

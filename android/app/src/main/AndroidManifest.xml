@@ -1,8 +1,15 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Needed by google_fonts to fetch Noto Sans/Serif Bengali on first
+         run in a release build — without this, release APKs (which don't
+         get the debug/profile manifests' INTERNET permission) can crash
+         to a blank screen the first time a Bengali font is requested. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:label="বাংলা সাহিত্য"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/ic_launcher"
+        android:enableOnBackInvokedCallback="true">
         <activity
             android:name=".MainActivity"
             android:exported="true"

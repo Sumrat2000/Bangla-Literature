@@ -1,12 +1,17 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../../../data/models/mcq.dart';
 import '../../../../data/providers.dart';
 import '../../../study/presentation/widgets/source_badge.dart';
+import 'mcq_results_screen.dart';
 
 /// Standard MCQ practice flow: show question → pick an option → reveal
-/// correct answer + explanation → next question (spec section 13).
+/// correct answer + explanation → next question, finishing in a real
+/// results screen (spec section 13). Every answer is persisted to
+/// TopicProgress so "আমার অগ্রগতি" reflects real practice, not a mock.
 class McqPracticeScreen extends ConsumerStatefulWidget {
   const McqPracticeScreen({super.key});
 
@@ -20,6 +25,24 @@ class _McqPracticeScreenState extends ConsumerState<McqPracticeScreen> {
   bool _revealed = false;
   int _correctCount = 0;
   int _answeredCount = 0;
+  final Stopwatch _stopwatch = Stopwatch()..start();
+  Timer? _tick;
+
+  @override
+  void initState() {
+    super.initState();
+    // Repaints once a second so the header timer visibly counts up.
+    _tick = Timer.periodic(const Duration(seconds: 1), (_) {
+      if (mounted) setState(() {});
+    });
+  }
+
+  @override
+  void dispose() {
+    _tick?.cancel();
+    _stopwatch.stop();
+    super.dispose();
+  }
 
   void _select(String optionId) {
     if (_revealed) return;
@@ -28,19 +51,44 @@ class _McqPracticeScreenState extends ConsumerState<McqPracticeScreen> {
 
   void _submit(Mcq q) {
     if (_selectedOptionId == null || _revealed) return;
+    final correct = _selectedOptionId == q.correctOptionId;
     setState(() {
       _revealed = true;
       _answeredCount++;
-      if (_selectedOptionId == q.correctOptionId) _correctCount++;
+      if (correct) _correctCount++;
     });
+    ref.read(progressRepositoryProvider).recordMcqAnswer(contentItemId: q.contentItemId, correct: correct);
   }
 
   void _next(int total) {
+    if (_index + 1 >= total) {
+      _stopwatch.stop();
+      Navigator.of(context).pushReplacement(
+        MaterialPageRoute(
+          builder: (_) => McqResultsScreen(
+            total: _answeredCount,
+            correct: _correctCount,
+            elapsed: _stopwatch.elapsed,
+            onRetry: () => Navigator.of(context).pushReplacement(
+              MaterialPageRoute(builder: (_) => const McqPracticeScreen()),
+            ),
+          ),
+        ),
+      );
+      return;
+    }
     setState(() {
-      _index = (_index + 1) % total;
+      _index++;
       _selectedOptionId = null;
       _revealed = false;
     });
+  }
+
+  String _formatElapsed() {
+    final s = _stopwatch.elapsed;
+    final m = s.inMinutes.toString().padLeft(2, '0');
+    final sec = (s.inSeconds % 60).toString().padLeft(2, '0');
+    return '$m:$sec';
   }
 
   @override
@@ -54,7 +102,15 @@ class _McqPracticeScreenState extends ConsumerState<McqPracticeScreen> {
         actions: [
           Padding(
             padding: const EdgeInsets.only(right: 16),
-            child: Center(child: Text('$_correctCount/$_answeredCount সঠিক', style: theme.textTheme.bodySmall)),
+            child: Center(
+              child: Row(
+                children: [
+                  const Icon(Icons.timer_outlined, size: 16),
+                  const SizedBox(width: 4),
+                  Text(_formatElapsed(), style: theme.textTheme.bodySmall),
+                ],
+              ),
+            ),
           ),
         ],
       ),
@@ -65,26 +121,29 @@ class _McqPracticeScreenState extends ConsumerState<McqPracticeScreen> {
           if (mcqs.isEmpty) {
             return const Center(child: Text('এখনো কোনো MCQ যোগ করা হয়নি।'));
           }
-          final q = mcqs[_index % mcqs.length];
+          final total = mcqs.length;
+          final q = mcqs[_index];
 
           return Padding(
             padding: const EdgeInsets.all(16),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                LinearProgressIndicator(value: (_index + 1) / mcqs.length),
+                LinearProgressIndicator(value: (_index + 1) / total),
                 const SizedBox(height: 6),
-                Text('প্রশ্ন ${_index + 1} / ${mcqs.length} · ${q.topicLabel}', style: theme.textTheme.bodySmall),
+                Text('প্রশ্ন ${_index + 1} / $total  ·  স্কোর: $_correctCount/$_answeredCount  ·  ${q.topicLabel}',
+                    style: theme.textTheme.bodySmall),
                 const SizedBox(height: 12),
                 Text(q.question, style: theme.textTheme.headlineSmall),
                 const SizedBox(height: 16),
-                for (final opt in q.options) _OptionTile(
-                  option: opt,
-                  isSelected: _selectedOptionId == opt.id,
-                  isCorrect: opt.id == q.correctOptionId,
-                  revealed: _revealed,
-                  onTap: () => _select(opt.id),
-                ),
+                for (final opt in q.options)
+                  _OptionTile(
+                    option: opt,
+                    isSelected: _selectedOptionId == opt.id,
+                    isCorrect: opt.id == q.correctOptionId,
+                    revealed: _revealed,
+                    onTap: () => _select(opt.id),
+                  ),
                 const SizedBox(height: 12),
                 if (_revealed) ...[
                   Card(
@@ -109,8 +168,12 @@ class _McqPracticeScreenState extends ConsumerState<McqPracticeScreen> {
                   children: [
                     Expanded(
                       child: FilledButton(
-                        onPressed: _revealed ? () => _next(mcqs.length) : (_selectedOptionId == null ? null : () => _submit(q)),
-                        child: Text(_revealed ? 'পরবর্তী প্রশ্ন' : 'উত্তর জমা দিন'),
+                        onPressed: _revealed
+                            ? () => _next(total)
+                            : (_selectedOptionId == null ? null : () => _submit(q)),
+                        child: Text(_revealed
+                            ? (_index + 1 >= total ? 'ফলাফল দেখুন' : 'পরবর্তী প্রশ্ন')
+                            : 'উত্তর জমা দিন'),
                       ),
                     ),
                   ],

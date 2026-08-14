@@ -119,6 +119,9 @@ class TopicProgress extends Table {
   IntColumn get correctCount => integer().withDefault(const Constant(0))();
   IntColumn get wrongCount => integer().withDefault(const Constant(0))();
   DateTimeColumn get lastPracticedAt => dateTime().nullable()();
+  // Marked true the first time the user opens this topic's reading detail
+  // screen — feeds the "পড়া হয়েছে" badge on the Study chapter list.
+  BoolColumn get isRead => boolean().withDefault(const Constant(false))();
 
   @override
   Set<Column> get primaryKey => {contentItemId};

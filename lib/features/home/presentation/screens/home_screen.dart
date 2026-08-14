@@ -60,12 +60,29 @@ class HomeScreen extends ConsumerWidget {
           const SizedBox(height: 10),
           topicsAsync.when(
             data: (topics) => mcqsAsync.when(
-              data: (mcqs) => StatChipsRow(chips: [
-                StatChip(icon: Icons.menu_book_outlined, color: AppColors.tileRead, value: '${topics.length}', label: 'Topic'),
-                StatChip(icon: Icons.quiz_outlined, color: AppColors.tileMcq, value: '${mcqs.length}', label: 'MCQ প্রস্তুত'),
-                const StatChip(icon: Icons.refresh, color: AppColors.tileTimeline, value: '—', label: 'রিভিশন (শীঘ্রই)'),
-                const StatChip(icon: Icons.trending_down, color: AppColors.weak, value: '—', label: 'দুর্বল টপিক (শীঘ্রই)'),
-              ]),
+              data: (mcqs) => Consumer(
+                builder: (context, ref, _) {
+                  final progressAsync = ref.watch(topicProgressProvider);
+                  final weakCount = progressAsync.maybeWhen(
+                    data: (rows) => rows
+                        .where((r) => r.correctCount + r.wrongCount >= 3)
+                        .where((r) => r.correctCount / (r.correctCount + r.wrongCount) < 0.5)
+                        .length,
+                    orElse: () => null,
+                  );
+                  return StatChipsRow(chips: [
+                    StatChip(icon: Icons.menu_book_outlined, color: AppColors.tileRead, value: '${topics.length}', label: 'Topic'),
+                    StatChip(icon: Icons.quiz_outlined, color: AppColors.tileMcq, value: '${mcqs.length}', label: 'MCQ প্রস্তুত'),
+                    const StatChip(icon: Icons.refresh, color: AppColors.tileTimeline, value: '—', label: 'রিভিশন (শীঘ্রই)'),
+                    StatChip(
+                      icon: Icons.trending_down,
+                      color: AppColors.weak,
+                      value: weakCount == null ? '—' : '$weakCount',
+                      label: 'দুর্বল টপিক',
+                    ),
+                  ]);
+                },
+              ),
               loading: () => const SizedBox(height: 96, child: Center(child: CircularProgressIndicator())),
               error: (e, s) => Text('লোড ব্যর্থ: $e', style: theme.textTheme.bodySmall),
             ),

@@ -62,3 +62,13 @@ final searchResultsProvider = FutureProvider((ref) async {
   final query = ref.watch(searchQueryProvider);
   return ref.watch(contentRepositoryProvider).search(query);
 });
+
+final examImportantFactsProvider = FutureProvider((ref) async {
+  ref.watch(contentImportProvider);
+  return ref.watch(contentRepositoryProvider).getExamImportantFacts();
+});
+
+/// Drives MainNavigation's bottom-tab selection from anywhere (e.g. Home's
+/// icon-grid menu tiles) without needing a BuildContext-based navigation
+/// hack between sibling tabs.
+final selectedTabIndexProvider = StateProvider<int>((ref) => 0);

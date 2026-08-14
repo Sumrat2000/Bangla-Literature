@@ -36,4 +36,28 @@ class ContentRepository {
   }
 
   Future<int> countAll() async => (await db.select(db.contentItems).get()).length;
+
+  /// Facts flagged exam-important (⭐) across every topic — feeds the
+  /// "গুরুত্বপূর্ণ তথ্য" screen from Home's icon grid.
+  Future<List<ExamImportantFact>> getExamImportantFacts() async {
+    final facts = await (db.select(db.contentFacts)..where((t) => t.examImportant.equals(true))).get();
+    if (facts.isEmpty) return [];
+    final itemIds = facts.map((f) => f.contentItemId).toSet();
+    final items = await (db.select(db.contentItems)..where((t) => t.id.isIn(itemIds))).get();
+    final titleById = {for (final i in items) i.id: i.title};
+    return facts
+        .map((f) => ExamImportantFact(
+              itemTitle: titleById[f.contentItemId] ?? '',
+              label: f.label,
+              value: f.value,
+            ))
+        .toList();
+  }
+}
+
+class ExamImportantFact {
+  final String itemTitle;
+  final String label;
+  final String value;
+  const ExamImportantFact({required this.itemTitle, required this.label, required this.value});
 }

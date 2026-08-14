@@ -1,5 +1,10 @@
 name: Build APK
 
+# Release APKs need gen_snapshot for a linux-arm64 host, which Google does
+# not ship — so on-device (Termux/phone) `flutter build apk --release`
+# cannot work. This workflow builds the real release APK on a normal x64
+# GitHub-hosted runner instead. Trigger it manually from the Actions tab,
+# or just push to main.
 on:
   workflow_dispatch:
   push:

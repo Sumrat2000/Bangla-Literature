@@ -34,9 +34,8 @@ android {
     }
 
     // Built-in Kotlin support (replaces the old "kotlin-android" plugin +
-    // kotlinOptions block) — required since this Flutter version's Gradle
-    // plugin reads the new AGP DSL for Kotlin config. See:
-    // https://docs.flutter.dev/release/breaking-changes/migrate-to-agp-9
+    // kotlinOptions block) — required by this Flutter version's Gradle
+    // plugin. See: https://docs.flutter.dev/release/breaking-changes/migrate-to-agp-9
     kotlin {
         compilerOptions {
             jvmTarget = org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_11
